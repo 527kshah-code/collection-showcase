@@ -24,30 +24,30 @@ function displaySongs(songs) {
 
                 <div class="card-body">
 
-                    <h5>
+                    <h6>
                         <strong>Song Name:</strong>
                         ${song.songName}
-                    </h5>
+                    </h6>
 
-                    <h5>
+                    <h6>
                         <strong>Band Name:</strong>
                         ${song.bandName}
-                    </h5>
+                    </h6>
 
-                    <h5>
+                    <h6>
                         <strong>Release Date:</strong>
                         ${song.releaseDate}
-                    </h5>
+                    </h6>
 
-                    <h5>
+                    <h6>
                         <strong>Album Name:</strong>
                         ${song.albumName}
-                    </h5>
+                    </h6>
 
-                    <h5>
+                    <h6>
                         <strong>Run Time:</strong>
                         ${song.runtime}
-                    </h5>
+                    </h6>
 
                     <button class="btn btn-primary">
                         ${song.fact}
