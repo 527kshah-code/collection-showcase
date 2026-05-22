@@ -61,3 +61,22 @@ function displaySongs(songs) {
         container.appendChild(card);
     });
 }
+//console.log(displaySongs);
+
+// this is for the filter might need to change it
+const filter = document.getElementById("filter");
+
+filter.addEventListener("change", () => {
+
+    const selected = filter.value;
+
+    if (selected === "all") {
+        displaySongs(songs);
+    } else {
+        const filtered = songs.filter(song =>
+            song.albumName === selected
+        );
+
+        displaySongs(filtered);
+    }
+});

@@ -59,7 +59,26 @@
     <main>
         <h1>Dynamic collection of songs</h1>
         <hr>
-        <!--home page content-->
+        <!--the filtering options will go here-->
+        <div class="col-md-4">
+            <label for="filter" class="form-label">Filter by:</label>
+            <select id="filter" class="form-select">
+                <option value="all">All</option>
+                <option value="...">...</option>
+                <option value="...">...</option>
+                <option value="...">...</option>
+                <option value="...">...</option>
+            </select>
+        </div>
+        <!--filtering options end-->
+
+        <!--cards will start-->
+        <div class="container-fluid">
+            <div id="song-container"class="row row-cols-1 row-cols-md-3 row-cols-lg-6 g-4 m-3 p-3">
+
+            </div>
+        </div>
+    <!-- Cards Section End -->
     </main>
     <footer>
       <!-- place footer here -->
@@ -70,5 +89,7 @@
       integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
       crossorigin="anonymous"
     ></script>
+    <script src="js/common.js"></script>
+    <script src="js/ateez-data.js"></script>
   </body>
 </html>

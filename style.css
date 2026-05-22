@@ -1,3 +1,15 @@
 body {
     text-align: center;
+    background-color: #1A1A1A;
+}
+.filter-container {
+    margin-left: auto;
+    text-align: right;
+}
+
+#filter {
+    width: auto;
+    display: inline-block;
+    border-radius: 12px;
+    padding: 6px 10px;
 }
