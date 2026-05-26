@@ -4,7 +4,7 @@ const songs = [
         releaseDate: "May 18, 2026",
         albumName: "4SHOBOIZ Vol.2: 4SHOVILLE",
         runtime: "4:01",
-        image: "imgs/86.jpg",
+        image: "imgs/86.png",
         fact: "The opening track sets the tone for the mixtape with heavy bass and confident group-introduction energy."
     },
     {
@@ -12,7 +12,7 @@ const songs = [
         releaseDate: "May 18, 2026",
         albumName: "4SHOBOIZ Vol.2: 4SHOVILLE",
         runtime: "3:04",
-        image: "imgs/86.jpg",
+        image: "imgs/86.png",
         fact: "This song leans into high-energy party vibes with repetitive chants made for live performances."
     },
     {
@@ -20,7 +20,7 @@ const songs = [
         releaseDate: "May 18, 2026",
         albumName: "4SHOBOIZ Vol.2: 4SHOVILLE",
         runtime: "3:00",
-        image: "imgs/86.jpg",
+        image: "imgs/86.png",
         fact: "The title reflects the song’s cold, no-fake-friends attitude."
     },
     {
@@ -28,7 +28,7 @@ const songs = [
         releaseDate: "May 18, 2026",
         albumName: "4SHOBOIZ Vol.2: 4SHOVILLE",
         runtime: "2:59",
-        image: "imgs/86.jpg",
+        image: "imgs/86.png",
         fact: "Built around themes of ambition and success, the track has a fast-paced flex-style rap flow."
     },
     {
@@ -36,15 +36,15 @@ const songs = [
         releaseDate: "May 18, 2026",
         albumName: "4SHOBOIZ Vol.2: 4SHOVILLE",
         runtime: "3:44",
-        image: "imgs/86.jpg",
-        fact: "he song mixes Korean slang and swagger-heavy lyrics to create a playful hip-hop anthem."
+        image: "imgs/86.png",
+        fact: "The song mixes Korean slang and swagger-heavy lyrics to create a playful hip-hop anthem."
     },
     {
         songName: "Moya",
         releaseDate: "May 18, 2026",
         albumName: "4SHOBOIZ Vol.2: 4SHOVILLE",
         runtime: "4:11",
-        image: "imgs/86.jpg",
+        image: "imgs/86.png",
         fact: "The title means ‘What?’ in Korean, matching the track’s chaotic and unpredictable vibe."
     },
     {
@@ -52,7 +52,7 @@ const songs = [
         releaseDate: "May 18, 2026",
         albumName: "4SHOBOIZ Vol.2: 4SHOVILLE",
         runtime: "2:18",
-        image: "imgs/86.jpg",
+        image: "imgs/86.png",
         fact: "This remix-style track brings darker production and aggressive rap verses inspired by underground hip-hop."
     },
     {
@@ -60,7 +60,7 @@ const songs = [
         releaseDate: "May 18, 2026",
         albumName: "4SHOBOIZ Vol.2: 4SHOVILLE",
         runtime: "3:32",
-        image: "imgs/86.jpg",
+        image: "imgs/86.png",
         fact: "Collaborated with DJ Wegun"
     },
     {
@@ -68,7 +68,7 @@ const songs = [
         releaseDate: "March 23, 2026",
         albumName: "Training Days",
         runtime: "2:45",
-        image: "imgs/87.jpg",
+        image: "imgs/87.png",
         fact: "Solo song by Louis."
     },
     {
@@ -76,7 +76,7 @@ const songs = [
         releaseDate: "March 23, 2026",
         albumName: "Training Days",
         runtime: "3:02",
-        image: "imgs/87.jpg",
+        image: "imgs/87.png",
         fact: "Solo song by Woojin."
     },
     {
@@ -84,7 +84,7 @@ const songs = [
         releaseDate: "March 23, 2026",
         albumName: "Training Days",
         runtime: "3:20",
-        image: "imgs/87.jpg",
+        image: "imgs/87.png",
         fact: "Solo song by Ohyul."
     },
     {
@@ -92,7 +92,7 @@ const songs = [
         releaseDate: "March 23, 2026",
         albumName: "Training Days",
         runtime: "2:45",
-        image: "imgs/87.jpg",
+        image: "imgs/87.png",
         fact: "Solo song by Ryul."
     },
     {
@@ -100,7 +100,7 @@ const songs = [
         releaseDate: "March 23, 2026",
         albumName: "Training Days",
         runtime: "2:50",
-        image: "imgs/87.jpg",
+        image: "imgs/87.png",
         fact: "Unlike LNGSHOT’s harder rap tracks, this song has a softer nostalgic tone with smoother vocals."
     },
     {
@@ -108,7 +108,7 @@ const songs = [
         releaseDate: "January 16, 2026",
         albumName: "4SHOBOIZ MIXTAPE",
         runtime: "2:35",
-        image: "imgs/88.jpg",
+        image: "imgs/88.png",
         fact: "This intro-style track was made to hype listeners up for the group’s early sound."
     },
     {
@@ -116,7 +116,7 @@ const songs = [
         releaseDate: "January 16, 2026",
         albumName: "4SHOBOIZ MIXTAPE",
         runtime: "2:20",
-        image: "imgs/88.jpg",
+        image: "imgs/88.png",
         fact: "Solo song by Ryul."
     },
     {
@@ -124,7 +124,7 @@ const songs = [
         releaseDate: "January 16, 2026",
         albumName: "4SHOBOIZ MIXTAPE",
         runtime: "1:53",
-        image: "imgs/88.jpg",
+        image: "imgs/88.png",
         fact: "Duo song by Ryul and Louis."
     },
     {
@@ -132,7 +132,7 @@ const songs = [
         releaseDate: "January 16, 2026",
         albumName: "4SHOBOIZ MIXTAPE",
         runtime: "2:35",
-        image: "imgs/88.jpg",
+        image: "imgs/88.png",
         fact: "Duo song by Woojin and Ryul."
     },
     {
@@ -140,7 +140,7 @@ const songs = [
         releaseDate: "January 16, 2026",
         albumName: "4SHOBOIZ MIXTAPE",
         runtime: "2:15",
-        image: "imgs/88.jpg",
+        image: "imgs/88.png",
         fact: "Solo song by Woojin."
     },
     {
@@ -148,7 +148,7 @@ const songs = [
         releaseDate: "January 16, 2026",
         albumName: "4SHOBOIZ MIXTAPE",
         runtime: "2:10",
-        image: "imgs/88.jpg",
+        image: "imgs/88.png",
         fact: "Duo song by Ohyul and Louis."
     },
     {
@@ -156,7 +156,7 @@ const songs = [
         releaseDate: "January 16, 2026",
         albumName: "4SHOBOIZ MIXTAPE",
         runtime: "2:36",
-        image: "imgs/88.jpg",
+        image: "imgs/88.png",
         fact: "Duo song by Woojin and Louis."
     },
     {
@@ -164,7 +164,7 @@ const songs = [
         releaseDate: "January 13, 2026",
         albumName: "Shot Callers",
         runtime: "3:02",
-        image: "imgs/89.jpg",
+        image: "imgs/89.png",
         fact: "The track mixes smooth late-night production with confident rap verses."
     },
     {
@@ -172,7 +172,7 @@ const songs = [
         releaseDate: "January 13, 2026",
         albumName: "Shot Callers",
         runtime: "2:53",
-        image: "imgs/89.jpg",
+        image: "imgs/89.png",
         fact: "Known for its flashy lyrics and swagger-heavy delivery, this song became a fan favorite."
     },
     {
@@ -180,7 +180,7 @@ const songs = [
         releaseDate: "January 13, 2026",
         albumName: "Shot Callers",
         runtime: "3:28",
-        image: "imgs/89.jpg",
+        image: "imgs/89.png",
         fact: "The dreamy beat gives the song a floating, nighttime-driving atmosphere."
     },
     {
@@ -188,7 +188,7 @@ const songs = [
         releaseDate: "January 13, 2026",
         albumName: "Shot Callers",
         runtime: "2:47",
-        image: "imgs/89.jpg",
+        image: "imgs/89.png",
         fact: "The song references long-distance communication and modern relationships."
     },
     {
@@ -196,7 +196,7 @@ const songs = [
         releaseDate: "January 13, 2026",
         albumName: "Shot Callers",
         runtime: "3:13",
-        image: "imgs/89.jpg",
+        image: "imgs/89.png",
         fact: "This closing track has a more emotional tone focused on loyalty and connection."
     },
 ]
