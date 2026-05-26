@@ -1,11 +1,11 @@
 const songs = [
     {
-            songName: "Ghost",
-            releaseDate: "February 6, 2026",
-            albumName: "Golden hour: part 4",
-            runtime: "2:47",
-            image: "imgs/27.jpg",
-            fact: "..."
+        songName: "Ghost",
+        releaseDate: "February 6, 2026",
+        albumName: "Golden hour: part 4",
+        runtime: "2:47",
+        image: "imgs/27.jpg",
+        fact: "This track opens the album with a darker emotional tone and haunting production."
     },
     {
         songName: "Adrenaline",
@@ -13,7 +13,7 @@ const songs = [
         albumName: "Golden hour: part 4",
         runtime: "3:39",
         image: "imgs/27.jpg",
-        fact: "..."
+        fact: "The song mixes energetic vocals with intense EDM-inspired instrumentals."
     },
     {
         songName: "NASA",
@@ -21,7 +21,7 @@ const songs = [
         albumName: "Golden hour: part 4",
         runtime: "3:10",
         image: "imgs/27.jpg",
-        fact: "..."
+        fact: "During the Artemis mission NASA posted a picture of the Earth rise with the song on instagram."
     },
     {
         songName: "On the Road",
@@ -29,7 +29,7 @@ const songs = [
         albumName: "Golden hour: part 4",
         runtime: "3:23",
         image: "imgs/27.jpg",
-        fact: "..."
+        fact: "This song has a road-trip feeling with lyrics about chasing dreams forward."
     },
     {
         songName: "Choose",
@@ -37,7 +37,7 @@ const songs = [
         albumName: "Golden hour: part 4",
         runtime: "3:06",
         image: "imgs/27.jpg",
-        fact: "..."
+        fact: "Choose focuses on difficult decisions and emotional conflict."
     },
     {
         songName: "Ash",
@@ -45,7 +45,7 @@ const songs = [
         albumName: "Ashes to Light",
         runtime: "3:17",
         image: "imgs/28.jpg",
-        fact: "..."
+        fact: "Ash symbolizes rebuilding yourself after hardship and failure."
     },
     {
         songName: "Tippy Toes",
@@ -53,7 +53,7 @@ const songs = [
         albumName: "Ashes to Light",
         runtime: "3:21",
         image: "imgs/28.jpg",
-        fact: "..."
+        fact: "The playful beat and confident lyrics give this song a carefree vibe."
     },
     {
         songName: "FACE",
@@ -600,11 +600,291 @@ const songs = [
         fact: "..."
     },
     {
-        songName: "Fierworks (I'm the One) - Japanese Version",
+        songName: "Fireworks (I'm the One) - Japanese Version",
         releaseDate: "May 25, 2022",
         albumName: "Beyond: zero",
         runtime: "3:29",
         image: "imgs/37.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Turbulence",
+        releaseDate: "December 10, 2021",
+        albumName: "Zero: Fever Epilogue",
+        runtime: "3:19",
+        image: "imgs/38.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Be With You",
+        releaseDate: "December 10, 2021",
+        albumName: "Zero: Fever Epilogue",
+        runtime: "3:41",
+        image: "imgs/38.jpg",
+        fact: "..."
+    },
+    {
+        songName: "The Letter",
+        releaseDate: "December 10, 2021",
+        albumName: "Zero: Fever Epilogue",
+        runtime: "3:49",
+        image: "imgs/38.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Still Here - Korean Version",
+        releaseDate: "December 10, 2021",
+        albumName: "Zero: Fever Epilogue",
+        runtime: "3:15",
+        image: "imgs/38.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Better - Korean Version",
+        releaseDate: "December 10, 2021",
+        albumName: "Zero: Fever Epilogue",
+        runtime: "3:34",
+        image: "imgs/38.jpg",
+        fact: "..."
+    },
+    {
+        songName: "The Real - Heung Version",
+        releaseDate: "December 10, 2021",
+        albumName: "Zero: Fever Epilogue",
+        runtime: "3:30",
+        image: "imgs/38.jpg",
+        fact: "..."
+    },
+    {
+        songName: "WAVE (Overture)",
+        releaseDate: "December 10, 2021",
+        albumName: "Zero: Fever Epilogue",
+        runtime: "1:42",
+        image: "imgs/38.jpg",
+        fact: "..."
+    },
+    {
+        songName: "WONDERLAND (Symphony No.9 'From the Wonderland')",
+        releaseDate: "December 10, 2021",
+        albumName: "Zero: Fever Epilogue",
+        runtime: "4:17",
+        image: "imgs/38.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Answer(Ode to Joy)(feat. LA POEM)",
+        releaseDate: "December 10, 2021",
+        albumName: "Zero: Fever Epilogue",
+        runtime: "4:26",
+        image: "imgs/38.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Outro: Over the Horizon",
+        releaseDate: "December 10, 2021",
+        albumName: "Zero: Fever Epilogue",
+        runtime: "1:41",
+        image: "imgs/38.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Eternal Sunshine",
+        releaseDate: "September 13, 2021",
+        albumName: "Zero: fever part.3",
+        runtime: "3:39",
+        image: "imgs/39.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Feeling Like I Do",
+        releaseDate: "September 13, 2021",
+        albumName: "Zero: fever part.3",
+        runtime: "3:17",
+        image: "imgs/39.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Deja Vu",
+        releaseDate: "September 13, 2021",
+        albumName: "Zero: fever part.3",
+        runtime: "3:16",
+        image: "imgs/39.jpg",
+        fact: "..."
+    },
+    {
+        songName: "ROCKY",
+        releaseDate: "September 13, 2021",
+        albumName: "Zero: fever part.3",
+        runtime: "3:08",
+        image: "imgs/39.jpg",
+        fact: "..."
+    },
+    {
+        songName: "All About You",
+        releaseDate: "September 13, 2021",
+        albumName: "Zero: fever part.3",
+        runtime: "2:56",
+        image: "imgs/39.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Not Too Late",
+        releaseDate: "September 13, 2021",
+        albumName: "Zero: fever part.3",
+        runtime: "3:34",
+        image: "imgs/39.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Fireworks (I'm the One)",
+        releaseDate: "March 1, 2021",
+        albumName: "Zero: fever part.2",
+        runtime: "3:29",
+        image: "imgs/40.jpg",
+        fact: "..."
+    },
+    {
+        songName: "The Leaders",
+        releaseDate: "March 1, 2021",
+        albumName: "Zero: fever part.2",
+        runtime: "3:12",
+        image: "imgs/40.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Time Of Love",
+        releaseDate: "March 1, 2021",
+        albumName: "Zero: fever part.2",
+        runtime: "2:56",
+        image: "imgs/40.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Take Me Home",
+        releaseDate: "March 1, 2021",
+        albumName: "Zero: fever part.2",
+        runtime: "3:41",
+        image: "imgs/40.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Celebrate",
+        releaseDate: "March 1, 2021",
+        albumName: "Zero: fever part.2",
+        runtime: "3:16",
+        image: "imgs/40.jpg",
+        fact: "..."
+    },
+    {
+        songName: "I'm The One - Heat-TOPPING Version",
+        releaseDate: "March 1, 2021",
+        albumName: "Zero: fever part.2",
+        runtime: "3:52",
+        image: "imgs/40.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Dear Diary: 2016.07.2",
+        releaseDate: "July 29, 2020",
+        albumName: "Zero: fever part.1",
+        runtime: "2:33",
+        image: "imgs/41.jpg",
+        fact: "..."
+    },
+    {
+        songName: "FEVER",
+        releaseDate: "July 29, 2020",
+        albumName: "Zero: fever part.1",
+        runtime: "3:24",
+        image: "imgs/41.jpg",
+        fact: "..."
+    },
+    {
+        songName: "THANXX",
+        releaseDate: "July 29, 2020",
+        albumName: "Zero: fever part.1",
+        runtime: "3:01",
+        image: "imgs/41.jpg",
+        fact: "..."
+    },
+    {
+        songName: "To The Beat",
+        releaseDate: "July 29, 2020",
+        albumName: "Zero: fever part.1",
+        runtime: "3:01",
+        image: "imgs/41.jpg",
+        fact: "..."
+    },
+    {
+        songName: "INCEPTION",
+        releaseDate: "July 29, 2020",
+        albumName: "Zero: fever part.1",
+        runtime: "3:30",
+        image: "imgs/41.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Good Lil Boy",
+        releaseDate: "July 29, 2020",
+        albumName: "Zero: fever part.1",
+        runtime: "3:25",
+        image: "imgs/41.jpg",
+        fact: "..."
+    },
+    {
+        songName: "One Day At A Time",
+        releaseDate: "July 29, 2020",
+        albumName: "Zero: fever part.1",
+        runtime: "3:23",
+        image: "imgs/41.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Intro: Long Journey",
+        releaseDate: "October 24, 2018",
+        albumName: "Treasure: ep.1: All to zero",
+        runtime: "1:36",
+        image: "imgs/42.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Pirate King",
+        releaseDate: "October 24, 2018",
+        albumName: "Treasure: ep.1: All to zero",
+        runtime: "3:15",
+        image: "imgs/42.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Treasure",
+        releaseDate: "October 24, 2018",
+        albumName: "Treasure: ep.1: All to zero",
+        runtime: "3:40",
+        image: "imgs/42.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Twilight",
+        releaseDate: "October 24, 2018",
+        albumName: "Treasure: ep.1: All to zero",
+        runtime: "3:44",
+        image: "imgs/42.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Stay",
+        releaseDate: "October 24, 2018",
+        albumName: "Treasure: ep.1: All to zero",
+        runtime: "3:19",
+        image: "imgs/42.jpg",
+        fact: "..."
+    },
+    {
+        songName: "My Way",
+        releaseDate: "October 24, 2018",
+        albumName: "Treasure: ep.1: All to zero",
+        runtime: "3:48",
+        image: "imgs/42.jpg",
         fact: "..."
     },
 ]
