@@ -61,7 +61,7 @@ const songs = [
         albumName: "Ashes to Light",
         runtime: "2:46",
         image: "imgs/28.jpg",
-        fact: "..."
+        fact: "FACE explores identity and the pressure of expectations."
     },
     {
         songName: "Crescendo",
@@ -69,7 +69,7 @@ const songs = [
         albumName: "Ashes to Light",
         runtime: "3:45",
         image: "imgs/28.jpg",
-        fact: "..."
+        fact: "The title reflects the song’s gradual build-up in intensity and emotion."
     },
     {
         songName: "NOT OKAY",
@@ -77,7 +77,7 @@ const songs = [
         albumName: "Ashes to Light",
         runtime: "3:34",
         image: "imgs/28.jpg",
-        fact: "..."
+        fact: "NOT OKAY combines emotional lyrics with powerful rock-inspired sounds."
     },
     {
         songName: "Days",
@@ -85,7 +85,7 @@ const songs = [
         albumName: "Ashes to Light",
         runtime: "4:15",
         image: "imgs/28.jpg",
-        fact: "..."
+        fact: "Days has a sentimental atmosphere focused on memories and growing older."
     },
     {
         songName: "Birthday",
@@ -93,7 +93,7 @@ const songs = [
         albumName: "Ashes to Light",
         runtime: "2:44",
         image: "imgs/28.jpg",
-        fact: "..."
+        fact: "Birthday was released as a bright celebratory track with uplifting energy."
     },
     {
         songName: "Forevermore",
@@ -101,7 +101,7 @@ const songs = [
         albumName: "Ashes to Light",
         runtime: "4:47",
         image: "imgs/28.jpg",
-        fact: "..."
+        fact: "Forevermore is an emotional ballad about lasting connections and promises."
     },
     {
         songName: "Lemon Drop",
@@ -109,7 +109,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "4:47",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "Lemon Drop uses sweet imagery to create a playful summer mood."
     },
     {
         songName: "Masterpiece",
@@ -117,7 +117,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "2:40",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "Masterpiece highlights themes of confidence and self-expression."
     },
     {
         songName: "Now this house ain't a home",
@@ -125,7 +125,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:45",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "This emotional track focuses on loneliness after someone important leaves."
     },
     {
         songName: "Castle",
@@ -133,7 +133,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:09",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "Castle compares emotional walls to a fortress protecting someone’s heart."
     },
     {
         songName: "Bridge: The Edge of Reality",
@@ -141,7 +141,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "1:32",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "This short interlude helps transition the album into its fantasy-inspired themes."
     },
     {
         songName: "In Your Fantasy",
@@ -149,7 +149,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:45",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "In Your Fantasy blends dreamy production with cinematic vocals."
     },
     {
         songName: "NO1",
@@ -157,7 +157,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "2:33",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "NO1 emphasizes ambition and becoming the best version of yourself."
     },
     {
         songName: "Skin",
@@ -165,7 +165,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:20",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "Skin explores vulnerability and emotional intimacy."
     },
     {
         songName: "Slide to me",
@@ -173,7 +173,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "2:20",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "Slide to Me has a relaxed late-night vibe with smooth vocals."
     },
     {
         songName: "Legacy",
@@ -181,7 +181,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:02",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "Legacy reflects on the impact someone leaves behind over time."
     },
     {
         songName: "Creep",
@@ -189,7 +189,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:11",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "Creep leans into darker emotions and feelings of isolation."
     },
     {
         songName: "ROAR",
@@ -197,7 +197,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "2:34",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "ROAR uses aggressive instrumentals to create a powerful anthem-like sound."
     },
     {
         songName: "Sagittarius",
@@ -205,7 +205,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "2:48",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "Sagittarius references freedom and adventure inspired by the zodiac sign."
     },
     {
         songName: "To bo your light",
@@ -213,7 +213,7 @@ const songs = [
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:30",
         image: "imgs/29.jpg",
-        fact: "..."
+        fact: "To Be Your Light focuses on supporting someone through difficult moments."
     },
     {
         songName: "Deep Dive",
@@ -221,7 +221,7 @@ const songs = [
         albumName: "Golden hour: Part 2",
         runtime: "2:59",
         image: "imgs/31.jpg",
-        fact: "..."
+        fact: "Deep Dive uses underwater imagery to represent falling deeper into emotions."
     },
     {
         songName: "Scene 1: Value",
@@ -229,7 +229,7 @@ const songs = [
         albumName: "Golden hour: Part 2",
         runtime: "1:01",
         image: "imgs/31.jpg",
-        fact: "..."
+        fact: "This intro track sets up the album’s themes about self-worth and identity."
     },
     {
         songName: "Ice On My Teeth",
@@ -237,7 +237,7 @@ const songs = [
         albumName: "Golden hour: Part 2",
         runtime: "3:03",
         image: "imgs/31.jpg",
-        fact: "..."
+        fact: "The song became known for its catchy hook and flashy confidence-filled lyrics."
     },
     {
         songName: "Man on Fire",
@@ -245,7 +245,7 @@ const songs = [
         albumName: "Golden hour: Part 2",
         runtime: "3:15",
         image: "imgs/31.jpg",
-        fact: "..."
+        fact: "Man on Fire compares passion and ambition to an uncontrollable flame."
     },
     {
         songName: "Selfish Waltz",
@@ -253,7 +253,7 @@ const songs = [
         albumName: "Golden hour: Part 2",
         runtime: "3:23",
         image: "imgs/31.jpg",
-        fact: "..."
+        fact: "Selfish Waltz mixes elegant melodies with emotional tension."
     },
     {
         songName: "Enough",
@@ -261,15 +261,7 @@ const songs = [
         albumName: "Golden hour: Part 2",
         runtime: "3:15",
         image: "imgs/31.jpg",
-        fact: "..."
-    },
-    {
-        songName: "Birthday",
-        releaseDate: "October 1, 2024",
-        albumName: "Birthday",
-        runtime: "2:44",
-        image: "imgs/32.jpg",
-        fact: "..."
+        fact: "Enough reflects on emotional exhaustion and personal struggles."
     },
     {
         songName: "Royal",
@@ -277,7 +269,7 @@ const songs = [
         albumName: "Birthday",
         runtime: "3:42",
         image: "imgs/32.jpg",
-        fact: "..."
+        fact: "Royal combines dramatic instrumentals with themes of confidence and power."
     },
     {
         songName: "Forevermore",
