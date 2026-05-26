@@ -277,7 +277,7 @@ const songs = [
         albumName: "Birthday",
         runtime: "4:47",
         image: "imgs/32.jpg",
-        fact: "..."
+        fact: "This emphasizes the ballad’s emotional atmosphere."
     },
     {
         songName: "Birthday - Instrumental",
@@ -285,7 +285,7 @@ const songs = [
         albumName: "Birthday",
         runtime: "2:44",
         image: "imgs/32.jpg",
-        fact: "..."
+        fact: "The instrumental version highlights the emotional piano and string sections."
     },
     {
         songName: "Royal - Instrumental",
@@ -293,7 +293,7 @@ const songs = [
         albumName: "Birthday",
         runtime: "3:42",
         image: "imgs/32.jpg",
-        fact: "..."
+        fact: "Without vocals, the song’s cinematic production becomes more noticeable."
     },
     {
         songName: "Forevermore - Instrumental",
@@ -301,7 +301,7 @@ const songs = [
         albumName: "Birthday",
         runtime: "4:47",
         image: "imgs/32.jpg",
-        fact: "..."
+        fact: "This instrumental emphasizes the ballad’s emotional atmosphere."
     },
     {
         songName: "Golden Hour",
@@ -309,7 +309,7 @@ const songs = [
         albumName: "Golden Hour: Part 1",
         runtime: "1:24",
         image: "imgs/33.jpg",
-        fact: "..."
+        fact: "Golden Hour serves as an atmospheric intro to the album series."
     },
     {
         songName: "Blind",
@@ -317,7 +317,7 @@ const songs = [
         albumName: "Golden Hour: Part 1",
         runtime: "3:18",
         image: "imgs/33.jpg",
-        fact: "..."
+        fact: "Blind focuses on uncertainty and searching for direction."
     },
     {
         songName: "WORK",
@@ -325,7 +325,7 @@ const songs = [
         albumName: "Golden Hour: Part 1",
         runtime: "2:52",
         image: "imgs/33.jpg",
-        fact: "..."
+        fact: "WORK became popular for its addictive chorus and performance-heavy choreography."
     },
     {
         songName: "Empty Box",
@@ -333,7 +333,7 @@ const songs = [
         albumName: "Golden Hour: Part 1",
         runtime: "3:33",
         image: "imgs/33.jpg",
-        fact: "..."
+        fact: "Empty Box symbolizes emotional emptiness after losing something important."
     },
     {
         songName: "Shaboom",
@@ -341,7 +341,7 @@ const songs = [
         albumName: "Golden Hour: Part 1",
         runtime: "3:31",
         image: "imgs/33.jpg",
-        fact: "..."
+        fact: "Shaboom combines explosive energy with festival-style instrumentals."
     },
     {
         songName: "Siren",
@@ -349,7 +349,7 @@ const songs = [
         albumName: "Golden Hour: Part 1",
         runtime: "2:44",
         image: "imgs/33.jpg",
-        fact: "..."
+        fact: "Siren references temptation and danger through powerful vocals."
     },
     {
         songName: "We KNOW",
@@ -357,7 +357,7 @@ const songs = [
         albumName: "The world ep.fin: Will",
         runtime: "3:49",
         image: "imgs/34.jpg",
-        fact: "..."
+        fact: "The song introduces the album with a mysterious and intense atmosphere."
     },
     {
         songName: "Emergency",
@@ -365,7 +365,7 @@ const songs = [
         albumName: "The world ep.fin: Will",
         runtime: "2:58",
         image: "imgs/34.jpg",
-        fact: "..."
+        fact: "Emergency captures feelings of chaos and urgency through fast-paced production."
     },
     {
         songName: "Crazy Form",
@@ -373,7 +373,7 @@ const songs = [
         albumName: "The world ep.fin: Will",
         runtime: "3:18",
         image: "imgs/34.jpg",
-        fact: "..."
+        fact: "Crazy Form became known for its bold confidence and experimental sound."
     },
     {
         songName: "ARRIBA",
@@ -381,7 +381,7 @@ const songs = [
         albumName: "The world ep.fin: Will",
         runtime: "3:37",
         image: "imgs/34.jpg",
-        fact: "..."
+        fact: "ARRIBA uses Latin-inspired rhythms to create a party-like energy."
     },
     {
         songName: "Silver Light",
@@ -389,7 +389,7 @@ const songs = [
         albumName: "The world ep.fin: Will",
         runtime: "3:50",
         image: "imgs/34.jpg",
-        fact: "..."
+        fact: "Silver Light focuses on hope shining through darker moments."
     },
     {
         songName: "Crescent Part 2",
@@ -397,7 +397,7 @@ const songs = [
         albumName: "The world ep.fin: Will",
         runtime: "3:49",
         image: "imgs/34.jpg",
-        fact: "..."
+        fact: "This track continues themes first introduced in the original Crescent."
     },
     {
         songName: "Dream Day",
@@ -405,7 +405,7 @@ const songs = [
         albumName: "The world ep.fin: Will",
         runtime: "3:26",
         image: "imgs/34.jpg",
-        fact: "..."
+        fact: "Dream Day has a nostalgic tone centered around unforgettable memories."
     },
     {
         songName: "MATZ",
@@ -445,7 +445,7 @@ const songs = [
         albumName: "The world ep.fin: Will",
         runtime: "3:03",
         image: "imgs/34.jpg",
-        fact: "..."
+        fact: "FIN: WILL closes the album with a dramatic cinematic feeling."
     },
     {
         songName: "This World",
@@ -453,7 +453,7 @@ const songs = [
         albumName: "The world ep.2: Outlaw",
         runtime: "3:32",
         image: "imgs/35.jpg",
-        fact: "..."
+        fact: "This World explores rebellion against a controlled society."
     },
     {
         songName: "Dune",
@@ -461,7 +461,7 @@ const songs = [
         albumName: "The world ep.2: Outlaw",
         runtime: "3:15",
         image: "imgs/35.jpg",
-        fact: "..."
+        fact: "Dune uses intense instrumentals inspired by desert-like imagery."
     },
     {
         songName: "Bouncy (K-Hot Chilli Peppers)",
@@ -469,7 +469,7 @@ const songs = [
         albumName: "The world ep.2: Outlaw",
         runtime: "3:07",
         image: "imgs/35.jpg",
-        fact: "..."
+        fact: "Bouncy became one of ATEEZ’s most viral songs because of its choreography and hook."
     },
     {
         songName: "DJANGO",
@@ -477,7 +477,7 @@ const songs = [
         albumName: "The world ep.2: Outlaw",
         runtime: "3:11",
         image: "imgs/35.jpg",
-        fact: "..."
+        fact: "DJANGO references outlaw themes inspired by western films."
     },
     {
         songName: "Wake Up",
@@ -485,7 +485,7 @@ const songs = [
         albumName: "The world ep.2: Outlaw",
         runtime: "3:06",
         image: "imgs/35.jpg",
-        fact: "..."
+        fact: "Wake Up encourages listeners to break free from conformity."
     },
     {
         songName: "Outlaw",
@@ -493,7 +493,7 @@ const songs = [
         albumName: "The world ep.2: Outlaw",
         runtime: "3:19",
         image: "imgs/35.jpg",
-        fact: "..."
+        fact: "Outlaw represents freedom and rebellion against authority."
     },
     {
         songName: "Intro: Siren",
@@ -501,7 +501,7 @@ const songs = [
         albumName: "The world ep. Paradigm",
         runtime: "1:39",
         image: "imgs/36.jpg",
-        fact: "..."
+        fact: "This intro creates suspense with dramatic siren-inspired sounds."
     },
     {
         songName: "Paradigm",
@@ -509,7 +509,7 @@ const songs = [
         albumName: "The world ep. Paradigm",
         runtime: "3:13",
         image: "imgs/36.jpg",
-        fact: "..."
+        fact: "Paradigm was the title track for ATEEZ’s Japanese comeback."
     },
     {
         songName: "Cyberpunk - Japanese Version",
@@ -517,7 +517,7 @@ const songs = [
         albumName: "The world ep. Paradigm",
         runtime: "3:43",
         image: "imgs/36.jpg",
-        fact: "..."
+        fact: "This Japanese version gives the futuristic track a new vocal style."
     },
     {
         songName: "Guerrilla - Flag Version",
@@ -525,7 +525,7 @@ const songs = [
         albumName: "The world ep. Paradigm",
         runtime: "3:35",
         image: "imgs/36.jpg",
-        fact: "..."
+        fact: "The Flag Version adds even more dramatic energy to the original song."
     },
     {
         songName: "New World - Japanese Version",
@@ -533,7 +533,7 @@ const songs = [
         albumName: "The world ep. Paradigm",
         runtime: "3:36",
         image: "imgs/36.jpg",
-        fact: "..."
+        fact: "This version adapts the song’s hopeful themes into Japanese lyrics."
     },
     {
         songName: "Outro: Liberty",
@@ -541,7 +541,7 @@ const songs = [
         albumName: "The world ep. Paradigm",
         runtime: "1:18",
         image: "imgs/36.jpg",
-        fact: "..."
+        fact: "The outro ends the album with themes of freedom and possibility."
     },
     {
         songName: "Intro [Beyond: ZERO]",
@@ -549,7 +549,7 @@ const songs = [
         albumName: "Beyond: zero",
         runtime: "1:34",
         image: "imgs/37.jpg",
-        fact: "..."
+        fact: "The Japanese version keeps the original’s emotional and dramatic atmosphere."
     },
     {
         songName: "Deja Vu - Japanese Version",
@@ -557,7 +557,7 @@ const songs = [
         albumName: "Beyond: zero",
         runtime: "3:17",
         image: "imgs/37.jpg",
-        fact: "..."
+        fact: "The Japanese version keeps the original’s emotional and dramatic atmosphere."
     },
     {
         songName: "ROCKY - Boxers Version",
@@ -565,7 +565,7 @@ const songs = [
         albumName: "Beyond: zero",
         runtime: "3:17",
         image: "imgs/37.jpg",
-        fact: "..."
+        fact: "The Boxers Version adds heavier instrumentals inspired by boxing matches."
     },
     {
         songName: "The King",
@@ -573,7 +573,7 @@ const songs = [
         albumName: "Beyond: zero",
         runtime: "3:12",
         image: "imgs/37.jpg",
-        fact: "..."
+        fact: "The King combines orchestral sounds with themes of power and leadership."
     },
     {
         songName: "Turbulence - Japanese Version",
@@ -581,7 +581,7 @@ const songs = [
         albumName: "Beyond: zero",
         runtime: "3:21",
         image: "imgs/37.jpg",
-        fact: "..."
+        fact: "The Japanese version emphasizes the song’s emotional storytelling."
     },
     {
         songName: "Take Me Home - Japanese Version",
@@ -589,7 +589,7 @@ const songs = [
         albumName: "Beyond: zero",
         runtime: "3:42",
         image: "imgs/37.jpg",
-        fact: "..."
+        fact: "This version highlights the song’s retro synth-pop influences."
     },
     {
         songName: "Fireworks (I'm the One) - Japanese Version",
@@ -597,7 +597,7 @@ const songs = [
         albumName: "Beyond: zero",
         runtime: "3:29",
         image: "imgs/37.jpg",
-        fact: "..."
+        fact: "The Japanese release gave the hit song a fresh international feel."
     },
     {
         songName: "Turbulence",
@@ -605,7 +605,7 @@ const songs = [
         albumName: "Zero: Fever Epilogue",
         runtime: "3:19",
         image: "imgs/38.jpg",
-        fact: "..."
+        fact: "Turbulence comforts listeners struggling with uncertainty and growing pains."
     },
     {
         songName: "Be With You",
@@ -613,7 +613,7 @@ const songs = [
         albumName: "Zero: Fever Epilogue",
         runtime: "3:41",
         image: "imgs/38.jpg",
-        fact: "..."
+        fact: "Be With You is an emotional ballad focused on comfort and support."
     },
     {
         songName: "The Letter",
@@ -621,7 +621,7 @@ const songs = [
         albumName: "Zero: Fever Epilogue",
         runtime: "3:49",
         image: "imgs/38.jpg",
-        fact: "..."
+        fact: "The Letter feels like a heartfelt message written to someone important."
     },
     {
         songName: "Still Here - Korean Version",
@@ -629,7 +629,7 @@ const songs = [
         albumName: "Zero: Fever Epilogue",
         runtime: "3:15",
         image: "imgs/38.jpg",
-        fact: "..."
+        fact: "This version reintroduces the fan-favorite Japanese track in Korean."
     },
     {
         songName: "Better - Korean Version",
@@ -637,7 +637,7 @@ const songs = [
         albumName: "Zero: Fever Epilogue",
         runtime: "3:34",
         image: "imgs/38.jpg",
-        fact: "..."
+        fact: "The Korean adaptation keeps the hopeful energy of the original song."
     },
     {
         songName: "The Real - Heung Version",
@@ -645,7 +645,7 @@ const songs = [
         albumName: "Zero: Fever Epilogue",
         runtime: "3:30",
         image: "imgs/38.jpg",
-        fact: "..."
+        fact: "This orchestral remake transforms WAVE into a cinematic performance piece."
     },
     {
         songName: "WAVE (Overture)",
@@ -653,7 +653,7 @@ const songs = [
         albumName: "Zero: Fever Epilogue",
         runtime: "1:42",
         image: "imgs/38.jpg",
-        fact: "..."
+        fact: "This orchestral remake transforms WAVE into a cinematic performance piece."
     },
     {
         songName: "WONDERLAND (Symphony No.9 'From the Wonderland')",
@@ -661,7 +661,7 @@ const songs = [
         albumName: "Zero: Fever Epilogue",
         runtime: "4:17",
         image: "imgs/38.jpg",
-        fact: "..."
+        fact: "The song combines classical music influences with ATEEZ’s signature intensity."
     },
     {
         songName: "Answer(Ode to Joy)(feat. LA POEM)",
@@ -669,7 +669,7 @@ const songs = [
         albumName: "Zero: Fever Epilogue",
         runtime: "4:26",
         image: "imgs/38.jpg",
-        fact: "..."
+        fact: "This collaboration with LA POEM blends K-pop vocals with operatic elements."
     },
     {
         songName: "Outro: Over the Horizon",
@@ -677,7 +677,7 @@ const songs = [
         albumName: "Zero: Fever Epilogue",
         runtime: "1:41",
         image: "imgs/38.jpg",
-        fact: "..."
+        fact: "The outro leaves listeners with a hopeful ending to the Fever series."
     },
     {
         songName: "Eternal Sunshine",
@@ -685,7 +685,7 @@ const songs = [
         albumName: "Zero: fever part.3",
         runtime: "3:39",
         image: "imgs/39.jpg",
-        fact: "..."
+        fact: "Eternal Sunshine was chosen by fans as a promoted title track alongside Deja Vu."
     },
     {
         songName: "Feeling Like I Do",
@@ -693,7 +693,7 @@ const songs = [
         albumName: "Zero: fever part.3",
         runtime: "3:17",
         image: "imgs/39.jpg",
-        fact: "..."
+        fact: "Feeling Like I Do has a bright youthful sound inspired by pop-rock music."
     },
     {
         songName: "Deja Vu",
