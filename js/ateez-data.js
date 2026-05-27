@@ -701,7 +701,7 @@ const songs = [
         albumName: "Zero: fever part.3",
         runtime: "3:16",
         image: "imgs/39.jpg",
-        fact: "..."
+        fact: "Deja Vu became known for its sleek choreography and dramatic concept."
     },
     {
         songName: "ROCKY",
@@ -709,7 +709,7 @@ const songs = [
         albumName: "Zero: fever part.3",
         runtime: "3:08",
         image: "imgs/39.jpg",
-        fact: "..."
+        fact: "ROCKY uses boxing metaphors to represent fighting through struggles."
     },
     {
         songName: "All About You",
@@ -717,7 +717,7 @@ const songs = [
         albumName: "Zero: fever part.3",
         runtime: "2:56",
         image: "imgs/39.jpg",
-        fact: "..."
+        fact: "All About You focuses on feelings of comfort and emotional connection."
     },
     {
         songName: "Not Too Late",
@@ -725,7 +725,7 @@ const songs = [
         albumName: "Zero: fever part.3",
         runtime: "3:34",
         image: "imgs/39.jpg",
-        fact: "..."
+        fact: "Not Too Late delivers a hopeful message about overcoming difficult times."
     },
     {
         songName: "Fireworks (I'm the One)",
@@ -733,7 +733,7 @@ const songs = [
         albumName: "Zero: fever part.2",
         runtime: "3:29",
         image: "imgs/40.jpg",
-        fact: "..."
+        fact: "Fireworks became one of ATEEZ’s most recognizable performance songs."
     },
     {
         songName: "The Leaders",
@@ -741,7 +741,7 @@ const songs = [
         albumName: "Zero: fever part.2",
         runtime: "3:12",
         image: "imgs/40.jpg",
-        fact: "..."
+        fact: "The Leaders features confident rap-heavy verses and bold energy."
     },
     {
         songName: "Time Of Love",
@@ -749,7 +749,7 @@ const songs = [
         albumName: "Zero: fever part.2",
         runtime: "2:56",
         image: "imgs/40.jpg",
-        fact: "..."
+        fact: "Time Of Love combines cheerful instrumentals with romantic lyrics."
     },
     {
         songName: "Take Me Home",
@@ -757,7 +757,7 @@ const songs = [
         albumName: "Zero: fever part.2",
         runtime: "3:41",
         image: "imgs/40.jpg",
-        fact: "..."
+        fact: "Take Me Home became a fan favorite because of its retro synthwave sound."
     },
     {
         songName: "Celebrate",
@@ -765,7 +765,7 @@ const songs = [
         albumName: "Zero: fever part.2",
         runtime: "3:16",
         image: "imgs/40.jpg",
-        fact: "..."
+        fact: "Celebrate is a warm song dedicated to appreciating meaningful moments together."
     },
     {
         songName: "I'm The One - Heat-TOPPING Version",
@@ -773,7 +773,7 @@ const songs = [
         albumName: "Zero: fever part.2",
         runtime: "3:52",
         image: "imgs/40.jpg",
-        fact: "..."
+        fact: "This remix version adds extra intensity and aggressive instrumentals."
     },
     {
         songName: "Dear Diary: 2016.07.2",
@@ -781,7 +781,7 @@ const songs = [
         albumName: "Zero: fever part.1",
         runtime: "2:33",
         image: "imgs/41.jpg",
-        fact: "..."
+        fact: "This spoken intro introduces the themes of youth and dreams in the Fever series."
     },
     {
         songName: "FEVER",
@@ -789,7 +789,7 @@ const songs = [
         albumName: "Zero: fever part.1",
         runtime: "3:24",
         image: "imgs/41.jpg",
-        fact: "..."
+        fact: "FEVER reflects the passion and uncertainty of chasing dreams."
     },
     {
         songName: "THANXX",
@@ -797,7 +797,7 @@ const songs = [
         albumName: "Zero: fever part.1",
         runtime: "3:01",
         image: "imgs/41.jpg",
-        fact: "..."
+        fact: "THANXX became controversial for its rebellious styling and confident lyrics."
     },
     {
         songName: "To The Beat",
@@ -805,7 +805,7 @@ const songs = [
         albumName: "Zero: fever part.1",
         runtime: "3:01",
         image: "imgs/41.jpg",
-        fact: "..."
+        fact: "To The Beat is known for its heavy bass and performance-focused sound."
     },
     {
         songName: "INCEPTION",
@@ -813,7 +813,7 @@ const songs = [
         albumName: "Zero: fever part.1",
         runtime: "3:30",
         image: "imgs/41.jpg",
-        fact: "..."
+        fact: "INCEPTION won the fan vote to become one of the album’s title tracks."
     },
     {
         songName: "Good Lil Boy",
@@ -821,7 +821,7 @@ const songs = [
         albumName: "Zero: fever part.1",
         runtime: "3:25",
         image: "imgs/41.jpg",
-        fact: "..."
+        fact: "Good Lil Boy mixes old-school hip-hop inspiration with energetic vocals."
     },
     {
         songName: "One Day At A Time",
@@ -829,7 +829,7 @@ const songs = [
         albumName: "Zero: fever part.1",
         runtime: "3:23",
         image: "imgs/41.jpg",
-        fact: "..."
+        fact: "One Day At A Time is fully in English and delivers a comforting message."
     },
     {
         songName: "Intro: Long Journey",
@@ -837,7 +837,7 @@ const songs = [
         albumName: "Treasure: ep.1: All to zero",
         runtime: "1:36",
         image: "imgs/42.jpg",
-        fact: "..."
+        fact: "This intro introduces ATEEZ’s pirate-inspired storyline and adventurous concept."
     },
     {
         songName: "Pirate King",
@@ -845,7 +845,7 @@ const songs = [
         albumName: "Treasure: ep.1: All to zero",
         runtime: "3:15",
         image: "imgs/42.jpg",
-        fact: "..."
+        fact: "Pirate King was one of ATEEZ’s debut title tracks in 2018."
     },
     {
         songName: "Treasure",
@@ -853,7 +853,7 @@ const songs = [
         albumName: "Treasure: ep.1: All to zero",
         runtime: "3:40",
         image: "imgs/42.jpg",
-        fact: "..."
+        fact: "Treasure represents chasing dreams and searching for success."
     },
     {
         songName: "Twilight",
@@ -861,7 +861,7 @@ const songs = [
         albumName: "Treasure: ep.1: All to zero",
         runtime: "3:44",
         image: "imgs/42.jpg",
-        fact: "..."
+        fact: "Twilight has a softer emotional sound compared to the album’s stronger tracks."
     },
     {
         songName: "Stay",
@@ -869,7 +869,7 @@ const songs = [
         albumName: "Treasure: ep.1: All to zero",
         runtime: "3:19",
         image: "imgs/42.jpg",
-        fact: "..."
+        fact: "Stay combines uplifting lyrics with a warm comforting atmosphere."
     },
     {
         songName: "My Way",
@@ -877,7 +877,7 @@ const songs = [
         albumName: "Treasure: ep.1: All to zero",
         runtime: "3:48",
         image: "imgs/42.jpg",
-        fact: "..."
+        fact: "My Way encourages listeners to confidently follow their own path in life."
     },
 ]
 displaySongs(songs);
