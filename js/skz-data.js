@@ -319,4 +319,164 @@ const songs = [
         image: "imgs/4.jpg",
         fact: "..."
     },
+    {
+        songName: "Surfin' (Lee Know, Changbin, Felix)",
+        releaseDate: "August 23, 2021",
+        albumName: "No Easy",
+        runtime: "3:11",
+        image: "imgs/4.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Gone Away (Han, Seungmin, I.N)",
+        releaseDate: "August 23, 2021",
+        albumName: "No Easy",
+        runtime: "4:01",
+        image: "imgs/4.jpg",
+        fact: "..."
+    },
+    {
+        songName: "WOLFGANG",
+        releaseDate: "August 23, 2021",
+        albumName: "No Easy",
+        runtime: "3:10",
+        image: "imgs/4.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Mixtape: OH",
+        releaseDate: "August 23, 2021",
+        albumName: "No Easy",
+        runtime: "3:32",
+        image: "imgs/4.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Do It",
+        releaseDate: "November 21, 2025",
+        albumName: "Do It",
+        runtime: "2:39",
+        image: "imgs/5.jpg",
+        fact: "..."
+    },
+    {
+        songName: "DIVINE",
+        releaseDate: "November 21, 2025",
+        albumName: "Do It",
+        runtime: "3:07",
+        image: "imgs/5.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Holiday",
+        releaseDate: "November 21, 2025",
+        albumName: "Do It",
+        runtime: "3:07",
+        image: "imgs/5.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Photobook",
+        releaseDate: "November 21, 2025",
+        albumName: "Do It",
+        runtime: "2:53",
+        image: "imgs/5.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Do It (Festival Ver.)",
+        releaseDate: "November 21, 2025",
+        albumName: "Do It",
+        runtime: "2:27",
+        image: "imgs/5.jpg",
+        fact: "..."
+    },
+    {
+        songName: "FAM (Korean Ver.)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:33",
+        image: "imgs/6.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Connected (Bangchan)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "2:51",
+        image: "imgs/6.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Limbo (Lee Know)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:17",
+        image: "imgs/6.jpg",
+        fact: "..."
+    },
+    {
+        songName: "DOODLE (Changbin)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:04",
+        image: "imgs/6.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Love Untold (Hyunjin)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:30",
+        image: "imgs/6.jpg",
+        fact: "..."
+    },
+    {
+        songName: "RUN (Han)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "2:58",
+        image: "imgs/6.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Deep End (Felix)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:28",
+        image: "imgs/6.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Tears and Raindrops (Sungmin)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:49",
+        image: "imgs/6.jpg",
+        fact: "..."
+    },
+    {
+        songName: "Hug Me (I.N)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:00",
+        image: "imgs/6.jpg",
+        fact: "..."
+    },
+    {
+        songName: "#LoveSTAY",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:17",
+        image: "imgs/6.jpg",
+        fact: "..."
+    },
+    {
+        songName: "ZONE(Bangchan, Changbin, Han)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:33",
+        image: "imgs/6.jpg",
+        fact: "..."
+    },
 ]
