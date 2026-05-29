@@ -767,4 +767,68 @@ const songs = [
         image: "imgs/9.png",
         fact: "..."
     },
+    {
+    songName: "Scars (Korean Ver.)",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "3:19",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+    songName: "Awaken",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "3:13",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+    songName: "ROCK",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "3:13",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+    songName: "3rd Eye",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "4:03",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+    songName: "Placebo",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "3:54",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+    songName: "Insomnia",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "3:26",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+    songName: "Behind the Light",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "4:30",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+    songName: "My Side",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "3:36",
+        image: "imgs/10.png",
+        fact: "..."
+    },
 ]
