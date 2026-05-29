@@ -4,7 +4,7 @@ const songs = [
         releaseDate: "November 10, 2023",
         albumName: "Rock-Star",
         runtime: "3:05",
-        image: "imgs/1.jpg",
+        image: "imgs/1.png",
         fact: "..."
     },
     {
@@ -12,7 +12,7 @@ const songs = [
         releaseDate: "November 10, 2023",
         albumName: "Rock-Star",
         runtime: "3:02",
-        image: "imgs/1.jpg",
+        image: "imgs/1.png",
         fact: "..."
     },
     {
@@ -20,7 +20,7 @@ const songs = [
         releaseDate: "November 10, 2023",
         albumName: "Rock-Star",
         runtime: "3:20",
-        image: "imgs/1.jpg",
+        image: "imgs/1.png",
         fact: "..."
     },
     {
@@ -28,7 +28,7 @@ const songs = [
         releaseDate: "November 10, 2023",
         albumName: "Rock-Star",
         runtime: "2:52",
-        image: "imgs/1.jpg",
+        image: "imgs/1.png",
         fact: "..."
     },
     {
@@ -36,7 +36,7 @@ const songs = [
         releaseDate: "November 10, 2023",
         albumName: "Rock-Star",
         runtime: "3:11",
-        image: "imgs/1.jpg",
+        image: "imgs/1.png",
         fact: "..."
     },
     {
@@ -44,7 +44,7 @@ const songs = [
         releaseDate: "November 10, 2023",
         albumName: "Rock-Star",
         runtime: "3:39",
-        image: "imgs/1.jpg",
+        image: "imgs/1.png",
         fact: "..."
     },
     {
@@ -52,7 +52,7 @@ const songs = [
         releaseDate: "November 10, 2023",
         albumName: "Rock-Star",
         runtime: "3:17",
-        image: "imgs/1.jpg",
+        image: "imgs/1.png",
         fact: "..."
     },
     {
@@ -60,7 +60,7 @@ const songs = [
         releaseDate: "November 10, 2023",
         albumName: "Rock-Star",
         runtime: "3:07",
-        image: "imgs/1.jpg",
+        image: "imgs/1.png",
         fact: "..."
     },
     {
@@ -68,7 +68,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:44",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -76,7 +76,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:09",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -84,7 +84,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:25",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -92,7 +92,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "2:49",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -100,15 +100,15 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:37",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
-        songName: "We Go (Bangchan, Changbin, Han)",
+        songName: "We Go (Bang Chan, Changbin, Han)",
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "2:37",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -116,7 +116,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:13",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -124,7 +124,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:23",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -132,7 +132,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:03",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -140,7 +140,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:10",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -148,7 +148,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:34",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -156,7 +156,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "2:46",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -164,7 +164,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:32",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -172,7 +172,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "4:11",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -180,7 +180,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:28",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -188,7 +188,7 @@ const songs = [
         releaseDate: "September 14, 2020",
         albumName: "In Life",
         runtime: "3:19",
-        image: "imgs/2.jpg",
+        image: "imgs/2.png",
         fact: "..."
     },
     {
@@ -196,7 +196,7 @@ const songs = [
         releaseDate: "June 17, 2020",
         albumName: "Go Live",
         runtime: "1:50",
-        image: "imgs/3.jpg",
+        image: "imgs/3.png",
         fact: "..."
     },
     {
@@ -204,7 +204,7 @@ const songs = [
         releaseDate: "June 17, 2020",
         albumName: "Go Live",
         runtime: "2:47",
-        image: "imgs/3.jpg",
+        image: "imgs/3.png",
         fact: "..."
     },
     {
@@ -212,7 +212,7 @@ const songs = [
         releaseDate: "June 17, 2020",
         albumName: "Go Live",
         runtime: "1:50",
-        image: "imgs/3.jpg",
+        image: "imgs/3.png",
         fact: "..."
     },
     {
@@ -220,7 +220,7 @@ const songs = [
         releaseDate: "June 17, 2020",
         albumName: "Go Live",
         runtime: "2:14",
-        image: "imgs/3.jpg",
+        image: "imgs/3.png",
         fact: "..."
     },
     {
@@ -228,7 +228,7 @@ const songs = [
         releaseDate: "June 17, 2020",
         albumName: "Go Live",
         runtime: "3:14",
-        image: "imgs/3.jpg",
+        image: "imgs/3.png",
         fact: "..."
     },
     {
@@ -236,7 +236,7 @@ const songs = [
         releaseDate: "June 17, 2020",
         albumName: "Go Live",
         runtime: "3:28",
-        image: "imgs/3.jpg",
+        image: "imgs/3.png",
         fact: "..."
     },
     {
@@ -244,7 +244,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:02",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -252,7 +252,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:03",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -260,7 +260,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:18",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -268,7 +268,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:10",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -276,7 +276,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:21",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -284,7 +284,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "2:57",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -292,7 +292,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:29",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -300,7 +300,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:29",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -308,15 +308,15 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:35",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
-        songName: "Red Lights (Bangchan, Hyunjin)",
+        songName: "Red Lights (Bang Chan, Hyunjin)",
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:09",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -324,7 +324,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:11",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -332,7 +332,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "4:01",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -340,7 +340,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:10",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -348,7 +348,7 @@ const songs = [
         releaseDate: "August 23, 2021",
         albumName: "No Easy",
         runtime: "3:32",
-        image: "imgs/4.jpg",
+        image: "imgs/4.png",
         fact: "..."
     },
     {
@@ -356,7 +356,7 @@ const songs = [
         releaseDate: "November 21, 2025",
         albumName: "Do It",
         runtime: "2:39",
-        image: "imgs/5.jpg",
+        image: "imgs/5.png",
         fact: "..."
     },
     {
@@ -364,7 +364,7 @@ const songs = [
         releaseDate: "November 21, 2025",
         albumName: "Do It",
         runtime: "3:07",
-        image: "imgs/5.jpg",
+        image: "imgs/5.png",
         fact: "..."
     },
     {
@@ -372,7 +372,7 @@ const songs = [
         releaseDate: "November 21, 2025",
         albumName: "Do It",
         runtime: "3:07",
-        image: "imgs/5.jpg",
+        image: "imgs/5.png",
         fact: "..."
     },
     {
@@ -380,7 +380,7 @@ const songs = [
         releaseDate: "November 21, 2025",
         albumName: "Do It",
         runtime: "2:53",
-        image: "imgs/5.jpg",
+        image: "imgs/5.png",
         fact: "..."
     },
     {
@@ -388,7 +388,7 @@ const songs = [
         releaseDate: "November 21, 2025",
         albumName: "Do It",
         runtime: "2:27",
-        image: "imgs/5.jpg",
+        image: "imgs/5.png",
         fact: "..."
     },
     {
@@ -396,15 +396,15 @@ const songs = [
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
         runtime: "3:33",
-        image: "imgs/6.jpg",
+        image: "imgs/6.png",
         fact: "..."
     },
     {
-        songName: "Connected (Bangchan)",
+        songName: "Connected (Bang Chan)",
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
         runtime: "2:51",
-        image: "imgs/6.jpg",
+        image: "imgs/6.png",
         fact: "..."
     },
     {
@@ -412,7 +412,7 @@ const songs = [
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
         runtime: "3:17",
-        image: "imgs/6.jpg",
+        image: "imgs/6.png",
         fact: "..."
     },
     {
@@ -420,7 +420,7 @@ const songs = [
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
         runtime: "3:04",
-        image: "imgs/6.jpg",
+        image: "imgs/6.png",
         fact: "..."
     },
     {
@@ -428,7 +428,7 @@ const songs = [
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
         runtime: "3:30",
-        image: "imgs/6.jpg",
+        image: "imgs/6.png",
         fact: "..."
     },
     {
@@ -436,7 +436,7 @@ const songs = [
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
         runtime: "2:58",
-        image: "imgs/6.jpg",
+        image: "imgs/6.png",
         fact: "..."
     },
     {
@@ -444,15 +444,15 @@ const songs = [
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
         runtime: "3:28",
-        image: "imgs/6.jpg",
+        image: "imgs/6.png",
         fact: "..."
     },
     {
-        songName: "Tears and Raindrops (Sungmin)",
+        songName: "Tears and Raindrops (Seungmin)",
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
         runtime: "3:49",
-        image: "imgs/6.jpg",
+        image: "imgs/6.png",
         fact: "..."
     },
     {
@@ -460,7 +460,7 @@ const songs = [
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
         runtime: "3:00",
-        image: "imgs/6.jpg",
+        image: "imgs/6.png",
         fact: "..."
     },
     {
@@ -468,15 +468,127 @@ const songs = [
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
         runtime: "3:17",
-        image: "imgs/6.jpg",
+        image: "imgs/6.png",
         fact: "..."
     },
     {
-        songName: "ZONE(Bangchan, Changbin, Han)",
+        songName: "ZONE(Bang Chan, Changbin, Han)",
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
-        runtime: "3:33",
-        image: "imgs/6.jpg",
+        runtime: "3:32",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "Close (Han)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:46",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "Streetlight(Changbin)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:09",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "i hate to admit (Bang Chan)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "2:50",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "I GOT IT (Han)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "2:50",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "miss you (Hyunjin)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:08",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "Maknae On Top (I.N)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "2:33",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "Alien (Han)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "2:50",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "Because (Changbin, Felix)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:18",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "Piece of a Puzzle (Changbin, Seungmin)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "2:53",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "Wish you back (Han)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:18",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "HaPpy (Han)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "3:29",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "Up all Night (Bang Chan, Changbin, Felix, Seungmin)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "2:50",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "Drive (Bang Chan)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "2:50",
+        image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "ice.cream (Hyunjin)",
+        releaseDate: "December 21, 2022",
+        albumName: "SKZ- replay",
+        runtime: "2:50",
+        image: "imgs/6.png",
         fact: "..."
     },
 ]

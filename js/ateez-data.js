@@ -4,7 +4,7 @@ const songs = [
         releaseDate: "February 6, 2026",
         albumName: "Golden hour: part 4",
         runtime: "2:47",
-        image: "imgs/27.jpg",
+        image: "imgs/27.png",
         fact: "This track opens the album with a darker emotional tone and haunting production."
     },
     {
@@ -12,7 +12,7 @@ const songs = [
         releaseDate: "February 6, 2026",
         albumName: "Golden hour: part 4",
         runtime: "3:39",
-        image: "imgs/27.jpg",
+        image: "imgs/27.png",
         fact: "The song mixes energetic vocals with intense EDM-inspired instrumentals."
     },
     {
@@ -20,7 +20,7 @@ const songs = [
         releaseDate: "February 6, 2026",
         albumName: "Golden hour: part 4",
         runtime: "3:10",
-        image: "imgs/27.jpg",
+        image: "imgs/27.png",
         fact: "During the Artemis mission NASA posted a picture of the Earth rise with the song on instagram."
     },
     {
@@ -28,7 +28,7 @@ const songs = [
         releaseDate: "February 6, 2026",
         albumName: "Golden hour: part 4",
         runtime: "3:23",
-        image: "imgs/27.jpg",
+        image: "imgs/27.png",
         fact: "This song has a road-trip feeling with lyrics about chasing dreams forward."
     },
     {
@@ -36,71 +36,71 @@ const songs = [
         releaseDate: "February 6, 2026",
         albumName: "Golden hour: part 4",
         runtime: "3:06",
-        image: "imgs/27.jpg",
+        image: "imgs/27.png",
         fact: "Choose focuses on difficult decisions and emotional conflict."
     },
     {
         songName: "Ash",
         releaseDate: "September 16, 2025",
-        albumName: "Ashes to Light",
+        albumName: "Ashes to light",
         runtime: "3:17",
-        image: "imgs/28.jpg",
+        image: "imgs/28.png",
         fact: "Ash symbolizes rebuilding yourself after hardship and failure."
     },
     {
         songName: "Tippy Toes",
         releaseDate: "September 16, 2025",
-        albumName: "Ashes to Light",
+        albumName: "Ashes to light",
         runtime: "3:21",
-        image: "imgs/28.jpg",
+        image: "imgs/28.png",
         fact: "The playful beat and confident lyrics give this song a carefree vibe."
     },
     {
         songName: "FACE",
         releaseDate: "September 16, 2025",
-        albumName: "Ashes to Light",
+        albumName: "Ashes to light",
         runtime: "2:46",
-        image: "imgs/28.jpg",
+        image: "imgs/28.png",
         fact: "FACE explores identity and the pressure of expectations."
     },
     {
         songName: "Crescendo",
         releaseDate: "September 16, 2025",
-        albumName: "Ashes to Light",
+        albumName: "Ashes to light",
         runtime: "3:45",
-        image: "imgs/28.jpg",
+        image: "imgs/28.png",
         fact: "The title reflects the song’s gradual build-up in intensity and emotion."
     },
     {
         songName: "NOT OKAY",
         releaseDate: "September 16, 2025",
-        albumName: "Ashes to Light",
+        albumName: "Ashes to light",
         runtime: "3:34",
-        image: "imgs/28.jpg",
+        image: "imgs/28.png",
         fact: "NOT OKAY combines emotional lyrics with powerful rock-inspired sounds."
     },
     {
         songName: "Days",
         releaseDate: "September 16, 2025",
-        albumName: "Ashes to Light",
+        albumName: "Ashes to light",
         runtime: "4:15",
-        image: "imgs/28.jpg",
+        image: "imgs/28.png",
         fact: "Days has a sentimental atmosphere focused on memories and growing older."
     },
     {
         songName: "Birthday",
         releaseDate: "September 16, 2025",
-        albumName: "Ashes to Light",
+        albumName: "Ashes to light",
         runtime: "2:44",
-        image: "imgs/28.jpg",
+        image: "imgs/28.png",
         fact: "Birthday was released as a bright celebratory track with uplifting energy."
     },
     {
         songName: "Forevermore",
         releaseDate: "September 16, 2025",
-        albumName: "Ashes to Light",
+        albumName: "Ashes to light",
         runtime: "4:47",
-        image: "imgs/28.jpg",
+        image: "imgs/28.png",
         fact: "Forevermore is an emotional ballad about lasting connections and promises."
     },
     {
@@ -108,7 +108,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "4:47",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "Lemon Drop uses sweet imagery to create a playful summer mood."
     },
     {
@@ -116,7 +116,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "2:40",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "Masterpiece highlights themes of confidence and self-expression."
     },
     {
@@ -124,7 +124,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:45",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "This emotional track focuses on loneliness after someone important leaves."
     },
     {
@@ -132,7 +132,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:09",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "Castle compares emotional walls to a fortress protecting someone’s heart."
     },
     {
@@ -140,7 +140,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "1:32",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "This short interlude helps transition the album into its fantasy-inspired themes."
     },
     {
@@ -148,7 +148,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:45",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "In Your Fantasy blends dreamy production with cinematic vocals."
     },
     {
@@ -156,7 +156,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "2:33",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "NO1 emphasizes ambition and becoming the best version of yourself."
     },
     {
@@ -164,7 +164,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:20",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "Skin explores vulnerability and emotional intimacy."
     },
     {
@@ -172,7 +172,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "2:20",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "Slide to Me has a relaxed late-night vibe with smooth vocals."
     },
     {
@@ -180,7 +180,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:02",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "Legacy reflects on the impact someone leaves behind over time."
     },
     {
@@ -188,7 +188,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:11",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "Creep leans into darker emotions and feelings of isolation."
     },
     {
@@ -196,7 +196,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "2:34",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "ROAR uses aggressive instrumentals to create a powerful anthem-like sound."
     },
     {
@@ -204,7 +204,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "2:48",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "Sagittarius references freedom and adventure inspired by the zodiac sign."
     },
     {
@@ -212,7 +212,7 @@ const songs = [
         releaseDate: "July 11, 2025",
         albumName: "Golden hour: part 3 in your fantasy",
         runtime: "3:30",
-        image: "imgs/29.jpg",
+        image: "imgs/29.png",
         fact: "To Be Your Light focuses on supporting someone through difficult moments."
     },
     {
@@ -220,15 +220,15 @@ const songs = [
         releaseDate: "November 15, 2024",
         albumName: "Golden hour: Part 2",
         runtime: "2:59",
-        image: "imgs/31.jpg",
+        image: "imgs/31.png",
         fact: "Deep Dive uses underwater imagery to represent falling deeper into emotions."
     },
     {
         songName: "Scene 1: Value",
-        releaseDate: "November 15, 2024",
+        releaseDate: "November 15, 2024", 
         albumName: "Golden hour: Part 2",
         runtime: "1:01",
-        image: "imgs/31.jpg",
+        image: "imgs/31.png",
         fact: "This intro track sets up the album’s themes about self-worth and identity."
     },
     {
@@ -236,7 +236,7 @@ const songs = [
         releaseDate: "November 15, 2024",
         albumName: "Golden hour: Part 2",
         runtime: "3:03",
-        image: "imgs/31.jpg",
+        image: "imgs/31.png",
         fact: "The song became known for its catchy hook and flashy confidence-filled lyrics."
     },
     {
@@ -244,7 +244,7 @@ const songs = [
         releaseDate: "November 15, 2024",
         albumName: "Golden hour: Part 2",
         runtime: "3:15",
-        image: "imgs/31.jpg",
+        image: "imgs/31.png",
         fact: "Man on Fire compares passion and ambition to an uncontrollable flame."
     },
     {
@@ -252,7 +252,7 @@ const songs = [
         releaseDate: "November 15, 2024",
         albumName: "Golden hour: Part 2",
         runtime: "3:23",
-        image: "imgs/31.jpg",
+        image: "imgs/31.png",
         fact: "Selfish Waltz mixes elegant melodies with emotional tension."
     },
     {
@@ -260,7 +260,7 @@ const songs = [
         releaseDate: "November 15, 2024",
         albumName: "Golden hour: Part 2",
         runtime: "3:15",
-        image: "imgs/31.jpg",
+        image: "imgs/31.png",
         fact: "Enough reflects on emotional exhaustion and personal struggles."
     },
     {
@@ -268,7 +268,7 @@ const songs = [
         releaseDate: "October 1, 2024",
         albumName: "Birthday",
         runtime: "3:42",
-        image: "imgs/32.jpg",
+        image: "imgs/32.png",
         fact: "Royal combines dramatic instrumentals with themes of confidence and power."
     },
     {
@@ -276,7 +276,7 @@ const songs = [
         releaseDate: "October 1, 2024",
         albumName: "Birthday",
         runtime: "4:47",
-        image: "imgs/32.jpg",
+        image: "imgs/32.png",
         fact: "This emphasizes the ballad’s emotional atmosphere."
     },
     {
@@ -284,7 +284,7 @@ const songs = [
         releaseDate: "October 1, 2024",
         albumName: "Birthday",
         runtime: "2:44",
-        image: "imgs/32.jpg",
+        image: "imgs/32.png",
         fact: "The instrumental version highlights the emotional piano and string sections."
     },
     {
@@ -292,7 +292,7 @@ const songs = [
         releaseDate: "October 1, 2024",
         albumName: "Birthday",
         runtime: "3:42",
-        image: "imgs/32.jpg",
+        image: "imgs/32.png",
         fact: "Without vocals, the song’s cinematic production becomes more noticeable."
     },
     {
@@ -300,7 +300,7 @@ const songs = [
         releaseDate: "October 1, 2024",
         albumName: "Birthday",
         runtime: "4:47",
-        image: "imgs/32.jpg",
+        image: "imgs/32.png",
         fact: "This instrumental emphasizes the ballad’s emotional atmosphere."
     },
     {
@@ -308,7 +308,7 @@ const songs = [
         releaseDate: "May 31, 2024",
         albumName: "Golden Hour: Part 1",
         runtime: "1:24",
-        image: "imgs/33.jpg",
+        image: "imgs/33.png",
         fact: "Golden Hour serves as an atmospheric intro to the album series."
     },
     {
@@ -316,7 +316,7 @@ const songs = [
         releaseDate: "May 31, 2024",
         albumName: "Golden Hour: Part 1",
         runtime: "3:18",
-        image: "imgs/33.jpg",
+        image: "imgs/33.png",
         fact: "Blind focuses on uncertainty and searching for direction."
     },
     {
@@ -324,7 +324,7 @@ const songs = [
         releaseDate: "May 31, 2024",
         albumName: "Golden Hour: Part 1",
         runtime: "2:52",
-        image: "imgs/33.jpg",
+        image: "imgs/33.png",
         fact: "WORK became popular for its addictive chorus and performance-heavy choreography."
     },
     {
@@ -332,7 +332,7 @@ const songs = [
         releaseDate: "May 31, 2024",
         albumName: "Golden Hour: Part 1",
         runtime: "3:33",
-        image: "imgs/33.jpg",
+        image: "imgs/33.png",
         fact: "Empty Box symbolizes emotional emptiness after losing something important."
     },
     {
@@ -340,7 +340,7 @@ const songs = [
         releaseDate: "May 31, 2024",
         albumName: "Golden Hour: Part 1",
         runtime: "3:31",
-        image: "imgs/33.jpg",
+        image: "imgs/33.png",
         fact: "Shaboom combines explosive energy with festival-style instrumentals."
     },
     {
@@ -348,7 +348,7 @@ const songs = [
         releaseDate: "May 31, 2024",
         albumName: "Golden Hour: Part 1",
         runtime: "2:44",
-        image: "imgs/33.jpg",
+        image: "imgs/33.png",
         fact: "Siren references temptation and danger through powerful vocals."
     },
     {
@@ -356,7 +356,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "3:49",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "The song introduces the album with a mysterious and intense atmosphere."
     },
     {
@@ -364,7 +364,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "2:58",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "Emergency captures feelings of chaos and urgency through fast-paced production."
     },
     {
@@ -372,7 +372,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "3:18",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "Crazy Form became known for its bold confidence and experimental sound."
     },
     {
@@ -380,7 +380,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "3:37",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "ARRIBA uses Latin-inspired rhythms to create a party-like energy."
     },
     {
@@ -388,7 +388,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "3:50",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "Silver Light focuses on hope shining through darker moments."
     },
     {
@@ -396,7 +396,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "3:49",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "This track continues themes first introduced in the original Crescent."
     },
     {
@@ -404,7 +404,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "3:26",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "Dream Day has a nostalgic tone centered around unforgettable memories."
     },
     {
@@ -412,7 +412,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "3:26",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "This song is a duet by Hongjoon and Seonghwa."
     },
     {
@@ -420,7 +420,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "3:29",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "This song is sung by Yeosang, San, and Wooyoung."
     },
     {
@@ -428,7 +428,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "3:29",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "This is a duet by Yunho and Mingi."
     },
     {
@@ -436,7 +436,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "3:46",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "This is a solo by Jongho."
     },
     {
@@ -444,7 +444,7 @@ const songs = [
         releaseDate: "December 1, 2023",
         albumName: "The world ep.fin: Will",
         runtime: "3:03",
-        image: "imgs/34.jpg",
+        image: "imgs/34.png",
         fact: "FIN: WILL closes the album with a dramatic cinematic feeling."
     },
     {
@@ -452,7 +452,7 @@ const songs = [
         releaseDate: "June 6, 2023",
         albumName: "The world ep.2: Outlaw",
         runtime: "3:32",
-        image: "imgs/35.jpg",
+        image: "imgs/35.png",
         fact: "This World explores rebellion against a controlled society."
     },
     {
@@ -460,7 +460,7 @@ const songs = [
         releaseDate: "June 6, 2023",
         albumName: "The world ep.2: Outlaw",
         runtime: "3:15",
-        image: "imgs/35.jpg",
+        image: "imgs/35.png",
         fact: "Dune uses intense instrumentals inspired by desert-like imagery."
     },
     {
@@ -468,7 +468,7 @@ const songs = [
         releaseDate: "June 6, 2023",
         albumName: "The world ep.2: Outlaw",
         runtime: "3:07",
-        image: "imgs/35.jpg",
+        image: "imgs/35.png",
         fact: "Bouncy became one of ATEEZ’s most viral songs because of its choreography and hook."
     },
     {
@@ -476,7 +476,7 @@ const songs = [
         releaseDate: "June 6, 2023",
         albumName: "The world ep.2: Outlaw",
         runtime: "3:11",
-        image: "imgs/35.jpg",
+        image: "imgs/35.png",
         fact: "DJANGO references outlaw themes inspired by western films."
     },
     {
@@ -484,7 +484,7 @@ const songs = [
         releaseDate: "June 6, 2023",
         albumName: "The world ep.2: Outlaw",
         runtime: "3:06",
-        image: "imgs/35.jpg",
+        image: "imgs/35.png",
         fact: "Wake Up encourages listeners to break free from conformity."
     },
     {
@@ -492,7 +492,7 @@ const songs = [
         releaseDate: "June 6, 2023",
         albumName: "The world ep.2: Outlaw",
         runtime: "3:19",
-        image: "imgs/35.jpg",
+        image: "imgs/35.png",
         fact: "Outlaw represents freedom and rebellion against authority."
     },
     {
@@ -500,7 +500,7 @@ const songs = [
         releaseDate: "November 30, 2022",
         albumName: "The world ep. Paradigm",
         runtime: "1:39",
-        image: "imgs/36.jpg",
+        image: "imgs/36.png",
         fact: "This intro creates suspense with dramatic siren-inspired sounds."
     },
     {
@@ -508,7 +508,7 @@ const songs = [
         releaseDate: "November 30, 2022",
         albumName: "The world ep. Paradigm",
         runtime: "3:13",
-        image: "imgs/36.jpg",
+        image: "imgs/36.png",
         fact: "Paradigm was the title track for ATEEZ’s Japanese comeback."
     },
     {
@@ -516,7 +516,7 @@ const songs = [
         releaseDate: "November 30, 2022",
         albumName: "The world ep. Paradigm",
         runtime: "3:43",
-        image: "imgs/36.jpg",
+        image: "imgs/36.png",
         fact: "This Japanese version gives the futuristic track a new vocal style."
     },
     {
@@ -524,7 +524,7 @@ const songs = [
         releaseDate: "November 30, 2022",
         albumName: "The world ep. Paradigm",
         runtime: "3:35",
-        image: "imgs/36.jpg",
+        image: "imgs/36.png",
         fact: "The Flag Version adds even more dramatic energy to the original song."
     },
     {
@@ -532,7 +532,7 @@ const songs = [
         releaseDate: "November 30, 2022",
         albumName: "The world ep. Paradigm",
         runtime: "3:36",
-        image: "imgs/36.jpg",
+        image: "imgs/36.png",
         fact: "This version adapts the song’s hopeful themes into Japanese lyrics."
     },
     {
@@ -540,7 +540,7 @@ const songs = [
         releaseDate: "November 30, 2022",
         albumName: "The world ep. Paradigm",
         runtime: "1:18",
-        image: "imgs/36.jpg",
+        image: "imgs/36.png",
         fact: "The outro ends the album with themes of freedom and possibility."
     },
     {
@@ -548,7 +548,7 @@ const songs = [
         releaseDate: "May 25, 2022",
         albumName: "Beyond: zero",
         runtime: "1:34",
-        image: "imgs/37.jpg",
+        image: "imgs/37.png",
         fact: "The Japanese version keeps the original’s emotional and dramatic atmosphere."
     },
     {
@@ -556,7 +556,7 @@ const songs = [
         releaseDate: "May 25, 2022",
         albumName: "Beyond: zero",
         runtime: "3:17",
-        image: "imgs/37.jpg",
+        image: "imgs/37.png",
         fact: "The Japanese version keeps the original’s emotional and dramatic atmosphere."
     },
     {
@@ -564,7 +564,7 @@ const songs = [
         releaseDate: "May 25, 2022",
         albumName: "Beyond: zero",
         runtime: "3:17",
-        image: "imgs/37.jpg",
+        image: "imgs/37.png",
         fact: "The Boxers Version adds heavier instrumentals inspired by boxing matches."
     },
     {
@@ -572,7 +572,7 @@ const songs = [
         releaseDate: "May 25, 2022",
         albumName: "Beyond: zero",
         runtime: "3:12",
-        image: "imgs/37.jpg",
+        image: "imgs/37.png",
         fact: "The King combines orchestral sounds with themes of power and leadership."
     },
     {
@@ -580,7 +580,7 @@ const songs = [
         releaseDate: "May 25, 2022",
         albumName: "Beyond: zero",
         runtime: "3:21",
-        image: "imgs/37.jpg",
+        image: "imgs/37.png",
         fact: "The Japanese version emphasizes the song’s emotional storytelling."
     },
     {
@@ -588,7 +588,7 @@ const songs = [
         releaseDate: "May 25, 2022",
         albumName: "Beyond: zero",
         runtime: "3:42",
-        image: "imgs/37.jpg",
+        image: "imgs/37.png",
         fact: "This version highlights the song’s retro synth-pop influences."
     },
     {
@@ -596,7 +596,7 @@ const songs = [
         releaseDate: "May 25, 2022",
         albumName: "Beyond: zero",
         runtime: "3:29",
-        image: "imgs/37.jpg",
+        image: "imgs/37.png",
         fact: "The Japanese release gave the hit song a fresh international feel."
     },
     {
@@ -604,7 +604,7 @@ const songs = [
         releaseDate: "December 10, 2021",
         albumName: "Zero: Fever Epilogue",
         runtime: "3:19",
-        image: "imgs/38.jpg",
+        image: "imgs/38.png",
         fact: "Turbulence comforts listeners struggling with uncertainty and growing pains."
     },
     {
@@ -612,7 +612,7 @@ const songs = [
         releaseDate: "December 10, 2021",
         albumName: "Zero: Fever Epilogue",
         runtime: "3:41",
-        image: "imgs/38.jpg",
+        image: "imgs/38.png",
         fact: "Be With You is an emotional ballad focused on comfort and support."
     },
     {
@@ -620,7 +620,7 @@ const songs = [
         releaseDate: "December 10, 2021",
         albumName: "Zero: Fever Epilogue",
         runtime: "3:49",
-        image: "imgs/38.jpg",
+        image: "imgs/38.png",
         fact: "The Letter feels like a heartfelt message written to someone important."
     },
     {
@@ -628,7 +628,7 @@ const songs = [
         releaseDate: "December 10, 2021",
         albumName: "Zero: Fever Epilogue",
         runtime: "3:15",
-        image: "imgs/38.jpg",
+        image: "imgs/38.png",
         fact: "This version reintroduces the fan-favorite Japanese track in Korean."
     },
     {
@@ -636,7 +636,7 @@ const songs = [
         releaseDate: "December 10, 2021",
         albumName: "Zero: Fever Epilogue",
         runtime: "3:34",
-        image: "imgs/38.jpg",
+        image: "imgs/38.png",
         fact: "The Korean adaptation keeps the hopeful energy of the original song."
     },
     {
@@ -644,7 +644,7 @@ const songs = [
         releaseDate: "December 10, 2021",
         albumName: "Zero: Fever Epilogue",
         runtime: "3:30",
-        image: "imgs/38.jpg",
+        image: "imgs/38.png",
         fact: "This orchestral remake transforms WAVE into a cinematic performance piece."
     },
     {
@@ -652,7 +652,7 @@ const songs = [
         releaseDate: "December 10, 2021",
         albumName: "Zero: Fever Epilogue",
         runtime: "1:42",
-        image: "imgs/38.jpg",
+        image: "imgs/38.png",
         fact: "This orchestral remake transforms WAVE into a cinematic performance piece."
     },
     {
@@ -660,7 +660,7 @@ const songs = [
         releaseDate: "December 10, 2021",
         albumName: "Zero: Fever Epilogue",
         runtime: "4:17",
-        image: "imgs/38.jpg",
+        image: "imgs/38.png",
         fact: "The song combines classical music influences with ATEEZ’s signature intensity."
     },
     {
@@ -668,7 +668,7 @@ const songs = [
         releaseDate: "December 10, 2021",
         albumName: "Zero: Fever Epilogue",
         runtime: "4:26",
-        image: "imgs/38.jpg",
+        image: "imgs/38.png",
         fact: "This collaboration with LA POEM blends K-pop vocals with operatic elements."
     },
     {
@@ -676,7 +676,7 @@ const songs = [
         releaseDate: "December 10, 2021",
         albumName: "Zero: Fever Epilogue",
         runtime: "1:41",
-        image: "imgs/38.jpg",
+        image: "imgs/38.png",
         fact: "The outro leaves listeners with a hopeful ending to the Fever series."
     },
     {
@@ -684,7 +684,7 @@ const songs = [
         releaseDate: "September 13, 2021",
         albumName: "Zero: fever part.3",
         runtime: "3:39",
-        image: "imgs/39.jpg",
+        image: "imgs/39.png",
         fact: "Eternal Sunshine was chosen by fans as a promoted title track alongside Deja Vu."
     },
     {
@@ -692,7 +692,7 @@ const songs = [
         releaseDate: "September 13, 2021",
         albumName: "Zero: fever part.3",
         runtime: "3:17",
-        image: "imgs/39.jpg",
+        image: "imgs/39.png",
         fact: "Feeling Like I Do has a bright youthful sound inspired by pop-rock music."
     },
     {
@@ -700,7 +700,7 @@ const songs = [
         releaseDate: "September 13, 2021",
         albumName: "Zero: fever part.3",
         runtime: "3:16",
-        image: "imgs/39.jpg",
+        image: "imgs/39.png",
         fact: "Deja Vu became known for its sleek choreography and dramatic concept."
     },
     {
@@ -708,7 +708,7 @@ const songs = [
         releaseDate: "September 13, 2021",
         albumName: "Zero: fever part.3",
         runtime: "3:08",
-        image: "imgs/39.jpg",
+        image: "imgs/39.png",
         fact: "ROCKY uses boxing metaphors to represent fighting through struggles."
     },
     {
@@ -716,7 +716,7 @@ const songs = [
         releaseDate: "September 13, 2021",
         albumName: "Zero: fever part.3",
         runtime: "2:56",
-        image: "imgs/39.jpg",
+        image: "imgs/39.png",
         fact: "All About You focuses on feelings of comfort and emotional connection."
     },
     {
@@ -724,7 +724,7 @@ const songs = [
         releaseDate: "September 13, 2021",
         albumName: "Zero: fever part.3",
         runtime: "3:34",
-        image: "imgs/39.jpg",
+        image: "imgs/39.png",
         fact: "Not Too Late delivers a hopeful message about overcoming difficult times."
     },
     {
@@ -732,7 +732,7 @@ const songs = [
         releaseDate: "March 1, 2021",
         albumName: "Zero: fever part.2",
         runtime: "3:29",
-        image: "imgs/40.jpg",
+        image: "imgs/40.png",
         fact: "Fireworks became one of ATEEZ’s most recognizable performance songs."
     },
     {
@@ -740,7 +740,7 @@ const songs = [
         releaseDate: "March 1, 2021",
         albumName: "Zero: fever part.2",
         runtime: "3:12",
-        image: "imgs/40.jpg",
+        image: "imgs/40.png",
         fact: "The Leaders features confident rap-heavy verses and bold energy."
     },
     {
@@ -748,7 +748,7 @@ const songs = [
         releaseDate: "March 1, 2021",
         albumName: "Zero: fever part.2",
         runtime: "2:56",
-        image: "imgs/40.jpg",
+        image: "imgs/40.png",
         fact: "Time Of Love combines cheerful instrumentals with romantic lyrics."
     },
     {
@@ -756,7 +756,7 @@ const songs = [
         releaseDate: "March 1, 2021",
         albumName: "Zero: fever part.2",
         runtime: "3:41",
-        image: "imgs/40.jpg",
+        image: "imgs/40.png",
         fact: "Take Me Home became a fan favorite because of its retro synthwave sound."
     },
     {
@@ -764,7 +764,7 @@ const songs = [
         releaseDate: "March 1, 2021",
         albumName: "Zero: fever part.2",
         runtime: "3:16",
-        image: "imgs/40.jpg",
+        image: "imgs/40.png",
         fact: "Celebrate is a warm song dedicated to appreciating meaningful moments together."
     },
     {
@@ -772,7 +772,7 @@ const songs = [
         releaseDate: "March 1, 2021",
         albumName: "Zero: fever part.2",
         runtime: "3:52",
-        image: "imgs/40.jpg",
+        image: "imgs/40.png",
         fact: "This remix version adds extra intensity and aggressive instrumentals."
     },
     {
@@ -780,7 +780,7 @@ const songs = [
         releaseDate: "July 29, 2020",
         albumName: "Zero: fever part.1",
         runtime: "2:33",
-        image: "imgs/41.jpg",
+        image: "imgs/41.png",
         fact: "This spoken intro introduces the themes of youth and dreams in the Fever series."
     },
     {
@@ -788,7 +788,7 @@ const songs = [
         releaseDate: "July 29, 2020",
         albumName: "Zero: fever part.1",
         runtime: "3:24",
-        image: "imgs/41.jpg",
+        image: "imgs/41.png",
         fact: "FEVER reflects the passion and uncertainty of chasing dreams."
     },
     {
@@ -796,7 +796,7 @@ const songs = [
         releaseDate: "July 29, 2020",
         albumName: "Zero: fever part.1",
         runtime: "3:01",
-        image: "imgs/41.jpg",
+        image: "imgs/41.png",
         fact: "THANXX became controversial for its rebellious styling and confident lyrics."
     },
     {
@@ -804,7 +804,7 @@ const songs = [
         releaseDate: "July 29, 2020",
         albumName: "Zero: fever part.1",
         runtime: "3:01",
-        image: "imgs/41.jpg",
+        image: "imgs/41.png",
         fact: "To The Beat is known for its heavy bass and performance-focused sound."
     },
     {
@@ -812,7 +812,7 @@ const songs = [
         releaseDate: "July 29, 2020",
         albumName: "Zero: fever part.1",
         runtime: "3:30",
-        image: "imgs/41.jpg",
+        image: "imgs/41.png",
         fact: "INCEPTION won the fan vote to become one of the album’s title tracks."
     },
     {
@@ -820,7 +820,7 @@ const songs = [
         releaseDate: "July 29, 2020",
         albumName: "Zero: fever part.1",
         runtime: "3:25",
-        image: "imgs/41.jpg",
+        image: "imgs/41.png",
         fact: "Good Lil Boy mixes old-school hip-hop inspiration with energetic vocals."
     },
     {
@@ -828,7 +828,7 @@ const songs = [
         releaseDate: "July 29, 2020",
         albumName: "Zero: fever part.1",
         runtime: "3:23",
-        image: "imgs/41.jpg",
+        image: "imgs/41.png",
         fact: "One Day At A Time is fully in English and delivers a comforting message."
     },
     {
@@ -836,7 +836,7 @@ const songs = [
         releaseDate: "October 24, 2018",
         albumName: "Treasure: ep.1: All to zero",
         runtime: "1:36",
-        image: "imgs/42.jpg",
+        image: "imgs/42.png",
         fact: "This intro introduces ATEEZ’s pirate-inspired storyline and adventurous concept."
     },
     {
@@ -844,7 +844,7 @@ const songs = [
         releaseDate: "October 24, 2018",
         albumName: "Treasure: ep.1: All to zero",
         runtime: "3:15",
-        image: "imgs/42.jpg",
+        image: "imgs/42.png",
         fact: "Pirate King was one of ATEEZ’s debut title tracks in 2018."
     },
     {
@@ -852,7 +852,7 @@ const songs = [
         releaseDate: "October 24, 2018",
         albumName: "Treasure: ep.1: All to zero",
         runtime: "3:40",
-        image: "imgs/42.jpg",
+        image: "imgs/42.png",
         fact: "Treasure represents chasing dreams and searching for success."
     },
     {
@@ -860,7 +860,7 @@ const songs = [
         releaseDate: "October 24, 2018",
         albumName: "Treasure: ep.1: All to zero",
         runtime: "3:44",
-        image: "imgs/42.jpg",
+        image: "imgs/42.png",
         fact: "Twilight has a softer emotional sound compared to the album’s stronger tracks."
     },
     {
@@ -868,7 +868,7 @@ const songs = [
         releaseDate: "October 24, 2018",
         albumName: "Treasure: ep.1: All to zero",
         runtime: "3:19",
-        image: "imgs/42.jpg",
+        image: "imgs/42.png",
         fact: "Stay combines uplifting lyrics with a warm comforting atmosphere."
     },
     {
@@ -876,7 +876,7 @@ const songs = [
         releaseDate: "October 24, 2018",
         albumName: "Treasure: ep.1: All to zero",
         runtime: "3:48",
-        image: "imgs/42.jpg",
+        image: "imgs/42.png",
         fact: "My Way encourages listeners to confidently follow their own path in life."
     },
 ]
