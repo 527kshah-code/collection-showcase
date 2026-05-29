@@ -571,7 +571,7 @@ const songs = [
         songName: "Up all Night (Bang Chan, Changbin, Felix, Seungmin)",
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
-        runtime: "2:50",
+        runtime: "3:21",
         image: "imgs/6.png",
         fact: "..."
     },
@@ -579,7 +579,7 @@ const songs = [
         songName: "Drive (Bang Chan)",
         releaseDate: "December 21, 2022",
         albumName: "SKZ- replay",
-        runtime: "2:50",
+        runtime: "2:44",
         image: "imgs/6.png",
         fact: "..."
     },
@@ -589,6 +589,182 @@ const songs = [
         albumName: "SKZ- replay",
         runtime: "2:50",
         image: "imgs/6.png",
+        fact: "..."
+    },
+    {
+        songName: "Mountains",
+        releaseDate: "July 19, 2024",
+        albumName: "Ate",
+        runtime: "3:07",
+        image: "imgs/7.png",
+        fact: "..."
+    },
+    {
+        songName: "Chk Chk Boom",
+        releaseDate: "July 19, 2024",
+        albumName: "Ate",
+        runtime: "2:28",
+        image: "imgs/7.png",
+        fact: "..."
+    },
+    {
+        songName: "JJam",
+        releaseDate: "July 19, 2024",
+        albumName: "Ate",
+        runtime: "3:05",
+        image: "imgs/7.png",
+        fact: "..."
+    },
+    {
+        songName: "I Like It",
+        releaseDate: "July 19, 2024",
+        albumName: "Ate",
+        runtime: "2:28",
+        image: "imgs/7.png",
+        fact: "..."
+    },
+    {
+        songName: "Runners",
+        releaseDate: "July 19, 2024",
+        albumName: "Ate",
+        runtime: "3:16",
+        image: "imgs/7.png",
+        fact: "..."
+    },
+    {
+        songName: "twilight",
+        releaseDate: "July 19, 2024",
+        albumName: "Ate",
+        runtime: "3:12",
+        image: "imgs/7.png",
+        fact: "..."
+    },
+    {
+        songName: "Stray Kids",
+        releaseDate: "July 19, 2024",
+        albumName: "Ate",
+        runtime: "3:09",
+        image: "imgs/7.png",
+        fact: "..."
+    },
+    {
+        songName: "Chk Chk Boom (Festival Ver.)",
+        releaseDate: "July 19, 2024",
+        albumName: "Ate",
+        runtime: "2:33",
+        image: "imgs/7.png",
+        fact: "..."
+    },
+    {
+        songName: "VENOM",
+        releaseDate: "March 18, 2022",
+        albumName: "ODDINARY",
+        runtime: "3:14",
+        image: "imgs/8.png",
+        fact: "..."
+    },
+    {
+        songName: "MANIAC",
+        releaseDate: "March 18, 2022",
+        albumName: "ODDINARY",
+        runtime: "3:02",
+        image: "imgs/8.png",
+        fact: "..."
+    },
+    {
+        songName: "Charmer",
+        releaseDate: "March 18, 2022",
+        albumName: "ODDINARY",
+        runtime: "3:08",
+        image: "imgs/8.png",
+        fact: "..."
+    },
+    {
+        songName: "FREEZE",
+        releaseDate: "March 18, 2022",
+        albumName: "ODDINARY",
+        runtime: "2:58",
+        image: "imgs/8.png",
+        fact: "..."
+    },
+    {
+        songName: "Lonely St.",
+        releaseDate: "March 18, 2022",
+        albumName: "ODDINARY",
+        runtime: "2:44",
+        image: "imgs/8.png",
+        fact: "..."
+    },
+    {
+        songName: "Waiting For Us (Bang Chan, Lee Know, Seungmin, I.N)",
+        releaseDate: "March 18, 2022",
+        albumName: "ODDINARY",
+        runtime: "3:39",
+        image: "imgs/8.png",
+        fact: "..."
+    },
+    {
+        songName: "Muddy Water (Changbin, Hyunjin, Han, Felix)",
+        releaseDate: "March 18, 2022",
+        albumName: "ODDINARY",
+        runtime: "3:17",
+        image: "imgs/8.png",
+        fact: "..."
+    },
+    {
+        songName: "Walking On Water",
+        releaseDate: "December 13, 2024",
+        albumName: "HOP",
+        runtime: "2:28",
+        image: "imgs/9.png",
+        fact: "..."
+    },
+    {
+        songName: "Bounce Back",
+        releaseDate: "December 13, 2024",
+        albumName: "HOP",
+        runtime: "3:03",
+        image: "imgs/9.png",
+        fact: "..."
+    },
+    {
+        songName: "U (feat. TABLO)",
+        releaseDate: "December 13, 2024",
+        albumName: "HOP",
+        runtime: "2:43",
+        image: "imgs/9.png",
+        fact: "..."
+    },
+    {
+        songName: "Walking On Water (Hip Ver.)",
+        releaseDate: "December 13, 2024",
+        albumName: "HOP",
+        runtime: "2:55",
+        image: "imgs/9.png",
+        fact: "..."
+    },
+    {
+        songName: "Railway (Bang Chan)",
+        releaseDate: "December 13, 2024",
+        albumName: "HOP",
+        runtime: "2:53",
+        image: "imgs/9.png",
+        fact: "..."
+    },
+    {
+        songName: "Unfair (Felix)",
+        releaseDate: "December 13, 2024",
+        albumName: "HOP",
+        runtime: "2:48",
+        image: "imgs/9.png",
+        fact: "..."
+    },
+    {
+        songName: "HALLUCINATION (I.N)",
+        releaseDate: "December 13, 2024",
+        albumName: "HOP",
+        runtime: "2:43",
+        image: "imgs/9.png",
         fact: "..."
     },
 ]

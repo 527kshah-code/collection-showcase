@@ -30,11 +30,6 @@ function displaySongs(songs) {
                     </h6>
 
                     <h6>
-                        <strong>Band Name:</strong>
-                        ${song.bandName}
-                    </h6>
-
-                    <h6>
                         <strong>Release Date:</strong>
                         ${song.releaseDate}
                     </h6>
