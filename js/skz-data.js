@@ -768,7 +768,7 @@ const songs = [
         fact: "..."
     },
     {
-    songName: "Scars (Korean Ver.)",
+        songName: "Scars (Korean Ver.)",
         releaseDate: "December 23, 2021",
         albumName: "SKZ2021",
         runtime: "3:19",
@@ -776,7 +776,7 @@ const songs = [
         fact: "..."
     },
     {
-    songName: "Awaken",
+        songName: "Awaken",
         releaseDate: "December 23, 2021",
         albumName: "SKZ2021",
         runtime: "3:13",
@@ -784,7 +784,7 @@ const songs = [
         fact: "..."
     },
     {
-    songName: "ROCK",
+        songName: "ROCK",
         releaseDate: "December 23, 2021",
         albumName: "SKZ2021",
         runtime: "3:13",
@@ -792,7 +792,7 @@ const songs = [
         fact: "..."
     },
     {
-    songName: "3rd Eye",
+        songName: "3rd Eye",
         releaseDate: "December 23, 2021",
         albumName: "SKZ2021",
         runtime: "4:03",
@@ -800,7 +800,7 @@ const songs = [
         fact: "..."
     },
     {
-    songName: "Placebo",
+        songName: "Placebo",
         releaseDate: "December 23, 2021",
         albumName: "SKZ2021",
         runtime: "3:54",
@@ -808,7 +808,7 @@ const songs = [
         fact: "..."
     },
     {
-    songName: "Insomnia",
+        songName: "Insomnia",
         releaseDate: "December 23, 2021",
         albumName: "SKZ2021",
         runtime: "3:26",
@@ -816,7 +816,7 @@ const songs = [
         fact: "..."
     },
     {
-    songName: "Behind the Light",
+        songName: "Behind the Light",
         releaseDate: "December 23, 2021",
         albumName: "SKZ2021",
         runtime: "4:30",
@@ -824,11 +824,299 @@ const songs = [
         fact: "..."
     },
     {
-    songName: "My Side",
+        songName: "My Side",
         releaseDate: "December 23, 2021",
         albumName: "SKZ2021",
         runtime: "3:36",
         image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+        songName: "N/S",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "3:44",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+        songName: "0325",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "3:38",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+        songName: "For You",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "4:09",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+        songName: "Maze of Memories",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "2:55",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+        songName: "Broken Compass",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "3:41",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+        songName: "Hoodie Season",
+        releaseDate: "December 23, 2021",
+        albumName: "SKZ2021",
+        runtime: "3:54",
+        image: "imgs/10.png",
+        fact: "..."
+    },
+    {
+        songName: "Hall of Fame",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "2:51",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "S-Class",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "3:15",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "ITEM",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "3:11",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "Super Bowl",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "3:03",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "TOPLINE (feat. Tiger JK)",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "3:23",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "DCL",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "3:06",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "GET LIT",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "2:51",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "Collision",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "2:37",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "FNF",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "2:51",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "Youthful",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "3:29",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "THE SOUND (Korean Ver.)",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "2:58",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "Mixtape: Time Out",
+        releaseDate: "June 2, 2023",
+        albumName: "5-Star",
+        runtime: "2:55",
+        image: "imgs/11.png",
+        fact: "..."
+    },
+    {
+        songName: "Entrance",
+        releaseDate: "March 25, 2019",
+        albumName: "Miroh",
+        runtime: "1:38",
+        image: "imgs/12.png",
+        fact: "..."
+    },
+    {
+        songName: "Miroh",
+        releaseDate: "March 25, 2019",
+        albumName: "Miroh",
+        runtime: "3:27",
+        image: "imgs/12.png",
+        fact: "..."
+    },
+    {
+        songName: "Victory Song",
+        releaseDate: "March 25, 2019",
+        albumName: "Miroh",
+        runtime: "3:16",
+        image: "imgs/12.png",
+        fact: "..."
+    },
+    {
+        songName: "Maze of Memories",
+        releaseDate: "March 25, 2019",
+        albumName: "Miroh",
+        runtime: "2:55",
+        image: "imgs/12.png",
+        fact: "..."
+    },
+    {
+        songName: "Boxer",
+        releaseDate: "March 25, 2019",
+        albumName: "Miroh",
+        runtime: "3:20",
+        image: "imgs/12.png",
+        fact: "..."
+    },
+    {
+        songName: "Chronosaurus",
+        releaseDate: "March 25, 2019",
+        albumName: "Miroh",
+        runtime: "3:18",
+        image: "imgs/12.png",
+        fact: "..."
+    },
+    {
+        songName: "19",
+        releaseDate: "March 25, 2019",
+        albumName: "Miroh",
+        runtime: "3:25",
+        image: "imgs/12.png",
+        fact: "..."
+    },
+    {
+        songName: "Case 143",
+        releaseDate: "October 7, 2022",
+        albumName: "Maxident",
+        runtime: "3:11",
+        image: "imgs/13.png",
+        fact: "..."
+    },
+    {
+        songName: "CHILL",
+        releaseDate: "October 7, 2022",
+        albumName: "Maxident",
+        runtime: "3:15",
+        image: "imgs/13.png",
+        fact: "..."
+    },
+    {
+        songName: "Give Me your TMI",
+        releaseDate: "October 7, 2022",
+        albumName: "Maxident",
+        runtime: "3:18",
+        image: "imgs/13.png",
+        fact: "..."
+    },
+    {
+        songName: "SUPER BOARD",
+        releaseDate: "October 7, 2022",
+        albumName: "Maxident",
+        runtime: "3:05",
+        image: "imgs/13.png",
+        fact: "..."
+    },
+    {
+        songName: "3RACHA (Bang Chan, Changbin, Han)",
+        releaseDate: "October 7, 2022",
+        albumName: "Maxident",
+        runtime: "3:28",
+        image: "imgs/13.png",
+        fact: "..."
+    },
+    {
+        songName: "TASTE (Lee Know, Hyunjin, Felix)",
+        releaseDate: "October 7, 2022",
+        albumName: "Maxident",
+        runtime: "3:36",
+        image: "imgs/13.png",
+        fact: "..."
+    },
+    {
+        songName: "Can't Stop (Seungmin, I.N)",
+        releaseDate: "October 7, 2022",
+        albumName: "Maxident",
+        runtime: "3:29",
+        image: "imgs/13.png",
+        fact: "..."
+    },
+    {
+        songName: "CIRCUS (Korean Ver.)",
+        releaseDate: "October 7, 2022",
+        albumName: "Maxident",
+        runtime: "3:14",
+        image: "imgs/13.png",
+        fact: "..."
+    },
+    {
+        songName: "BLEEP",
+        releaseDate: "August 22, 2025",
+        albumName: "Karma",
+        runtime: "2:47",
+        image: "imgs/14.png",
+        fact: "..."
+    },
+    {
+        songName: "CEREMONY",
+        releaseDate: "August 22, 2025",
+        albumName: "Karma",
+        runtime: "2:44",
+        image: "imgs/14.png",
+        fact: "..."
+    },
+    {
+        songName: "CREED",
+        releaseDate: "August 22, 2025",
+        albumName: "Karma",
+        runtime: "2:41",
+        image: "imgs/14.png",
         fact: "..."
     },
 ]
