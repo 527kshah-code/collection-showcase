@@ -1,24 +1,201 @@
 body {
-    text-align: center;
-    background-color: #1A1A1A;
+    background-color: #121212;
     color: #FFFFFF;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+/* =========================
+   NAVBAR
+========================= */
+
+.navbar {
+    background-color: #181818 !important;
+    border-bottom: 2px solid #1ED760;
+    padding: 12px;
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: #1ED760 !important;
+    transform: translateY(-2px);
+}
+
+.navbar-brand img {
+    border-radius: 10px;
+}
+
+/* =========================
+   FILTER
+========================= */
+
 .filter-container {
     margin-left: auto;
     text-align: right;
+    padding-right: 30px;
+    margin-top: 20px;
 }
 
 #filter {
     width: auto;
     display: inline-block;
+
+    background-color: #181818;
+    color: white;
+
+    border: 2px solid #1ED760;
+
     border-radius: 12px;
-    padding: 6px 10px;
+
+    padding: 8px 14px;
+
+    transition: 0.3s;
 }
 
+#filter:hover {
+    box-shadow: 0 0 12px #1ED760;
+}
+
+/* =========================
+   HEADINGS / TEXT
+========================= */
+
+h1 {
+    margin-top: 20px;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #1ED760;
+
+    text-shadow: 0 0 10px #1ED760;
+}
+
+p {
+    max-width: 900px;
+    margin: auto;
+    line-height: 1.7;
+    padding: 10px;
+}
+
+/* =========================
+   CARDS
+========================= */
+
 .card {
-    background-color: #1ED760;
+    background: linear-gradient(
+        145deg,
+        #1DB954,
+        #169C46
+    );
+
     color: #0D0D0D;
+
     border: none;
+    border-radius: 18px;
+
+    overflow: hidden;
+
+    transition: 
+        transform 0.3s,
+        box-shadow 0.3s;
+
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
+
+/* Hover effect */
+
+.card:hover {
+    transform: translateY(-10px);
+
+    box-shadow:
+        0 0 20px #1ED760,
+        0 0 40px rgba(30,215,96,0.5);
+}
+
+/* Card Images */
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+
+    border-bottom: 2px solid rgba(255,255,255,0.2);
+}
+
+/* Card Body */
+
+.card-body {
+    padding: 18px;
+}
+
+.card h6 {
+    margin-bottom: 10px;
+    font-size: 0.95rem;
+}
+
+/* =========================
+   BUTTONS
+========================= */
+
+.btn-primary {
+    background-color: #0D0D0D;
+    border: none;
+
+    color: #1ED760;
+
     border-radius: 12px;
-    margin-bottom: 20px;
+
+    padding: 8px 14px;
+
+    transition: 0.3s;
+
+    margin-top: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #121212;
+
+    color: white;
+
+    box-shadow: 0 0 15px #1ED760;
+}
+
+/* =========================
+   MODAL
+========================= */
+
+.modal-content {
+    background-color: #181818;
+    color: white;
+
+    border-radius: 20px;
+
+    border: 2px solid #1ED760;
+}
+
+.modal-header {
+    border-bottom: 1px solid #333;
+}
+
+.btn-close {
+    filter: invert(1);
+}
+
+/* =========================
+   SCROLLBAR
+========================= */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #111;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #1ED760;
+    border-radius: 10px;
 }

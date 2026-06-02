@@ -44,9 +44,7 @@ function displaySongs(songs) {
                         ${song.runtime}
                     </h6>
 
-                    <button class="btn btn-primary">
-                        ${song.fact}
-                    </button>
+                    <button class="btn btn-primary fact-btn" data-fact="${song.fact}" data-bs-toggle="modal" data-bs-target="#factModal"> Fun Fact </button>
 
                 </div>
 
@@ -73,5 +71,16 @@ filter.addEventListener("change", () => {
         );
 
         displaySongs(filtered);
+    }
+});
+
+// this is for the modal
+document.addEventListener("click", function(event) {
+
+    if (event.target.classList.contains("fact-btn")) {
+
+        const fact = event.target.dataset.fact;
+
+        document.getElementById("modalFactText").textContent = fact;
     }
 });
