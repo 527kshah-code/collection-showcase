@@ -59,7 +59,35 @@
     <main>
         <h1>Dynamic collection of songs</h1>
         <hr>
-        <!--home page content-->
+        <!--the filtering options will go here-->
+        <div class="col-md-4 filter-container">
+            <label for="filter" class="form-label">Filter by:</label>
+            <select id="filter" class="form-select">
+                <option value="all">All</option>
+                <option value="The SIN : Vanish"> The SIN : Vanish</option>
+                <option value="Dark moon: The blood alter ">Dark moon: The blood alter </option>
+                <option value="YOI">YOI</option>
+                <option value="Desire: Unleash">Desire: Unleash</option>
+                <option value="Romance: Untold -daydream-">Romance: Untold -daydream-</option>
+                <option value="Dark Moon special album -memorabilia-">Dark Moon special album -memorabilia-</option>
+                <option value="Orange blood">Orange blood</option>
+                <option value="Dark blood">Dark blood</option>
+                <option value="Manifesto: day 1">Manifesto: day 1</option>
+                <option value="Dimension: Answer">Dimension: Answer</option>
+                <option value="Dimension: Dilemma">Dimension: Dilemma</option>
+                <option value="Border: Carnival">Border: Carnival</option>
+                <option value="Border: Day One">Border: Day One</option>
+            </select>
+        </div>
+        <!--filtering options end-->
+
+        <!--cards will start-->
+        <div class="container-fluid">
+            <div id="song-container"class="row row-cols-1 row-cols-md-3 row-cols-lg-6 g-4 m-3 p-3">
+
+            </div>
+        </div>
+    <!-- Cards Section End -->
     </main>
     <footer>
       <!-- place footer here -->
@@ -70,5 +98,7 @@
       integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
       crossorigin="anonymous"
     ></script>
+    <script src="js/common.js"></script>
+    <script src="js/enhypen-data.js"></script>
   </body>
 </html>
